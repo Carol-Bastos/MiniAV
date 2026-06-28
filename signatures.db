@@ -1,0 +1,7 @@
+# Lista de assinaturas de Malware
+# Formato: HASH_MD5:NOME_DO_MALWARE
+
+5d41402abc4b2a76b9719d911017c592:HelloWorld_Trojan
+d8e8fca2dc0f896fd7cb4cb0031ba249:Test_Virus_A
+bade41db4152b3a8d931727c3a0f218d:Fake_Pdf_Exploit
+

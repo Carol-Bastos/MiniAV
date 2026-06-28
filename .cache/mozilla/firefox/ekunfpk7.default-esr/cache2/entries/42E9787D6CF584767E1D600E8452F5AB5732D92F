@@ -1,0 +1,495 @@
+{
+  "components": {
+    "address": {
+      "title": "Endereço",
+      "change": "Usar outro endereço",
+      "form": {
+        "description": "Solicitamos apenas as informações essenciais para você fazer a sua compra.",
+        "required-message": "Faltou preencher esse campo!",
+        "save": "Salvar endereço",
+        "zipcode": {
+          "label": "CEP",
+          "error": "CEP inválido"
+        },
+        "street": {
+          "label": "Endereço",
+          "error": "Endereço inválido"
+        },
+        "street-number": {
+          "label": "Número da residência",
+          "error": "Número inválido",
+          "placeholder": "número ou s/n"
+        },
+        "complement": {
+          "label": "Complemento (Opcional)",
+          "placeholder": "Apartamento, sala, conjunto, edicio, andar, etc."
+        },
+        "neighborhood": {
+          "label": "Bairro",
+          "error": "Bairro inválido"
+        }
+      }
+    },
+    "error": {
+      "title": "Pagamento não autorizado",
+      "message-1": "Revise os dados de pagamento ou entre em contato com a administradora do cartão.",
+      "message-2": "Caso ainda tenha alguma dúvida ou problema para fazer o pagamento, entre em contato conosco via WhatsApp",
+      "try-again": "Tentar novamente"
+    },
+    "form": {
+      "wait-payment": "Aguardando Pagamento",
+      "expired": "Expirado",
+      "helpers": {
+        "identify": "Identificação",
+        "address": "Endereço",
+        "payment": "Pagamento",
+        "finish": "Finalização"
+      }
+    },
+    "input-phone": {
+      "select-country": "Selecionar país"
+    },
+    "loading": {
+      "title": "Processando compra..."
+    },
+    "nav-bar": {
+      "safe-payment": "Pagamento{{e}}100% seguro"
+    },
+    "payment": {
+      "title-pro": "Escolha sua forma de pagamento",
+      "title-global": "Dados do cartão",
+      "description": "Escolha qual a melhor forma de pagamento.",
+      "summary-span": "Você pagará",
+      "method": {
+        "credit-card": "Cartão de crédito",
+        "pix": "Pix"
+      },
+      "pix": {
+        "item-1": "Pague com PIX e não comprometa o limite do seu cartão.",
+        "item-2": "O QR Code do PIX será exibido após clicar em “Assinar agora”.",
+        "item-3": "É simples e super seguro. O pagamento PIX foi desenvolvido pelo Banco Central para facilitar pagamentos.",
+        "cta": "Assinar agora"
+      },
+      "information": {
+        "required-message": "Faltou preencher esse campo!",
+        "cta": "Assinar agora",
+        "credit-card": {
+          "placeholder": "SEU NOME AQUI",
+          "valid": "válido até"
+        },
+        "card-number": {
+          "label": "Número do cartão",
+          "error": "Cartão inválido!"
+        },
+        "expiry": {
+          "label": "Validade",
+          "error": "Data inválida!"
+        },
+        "cvv": {
+          "label": "Cód. segurança",
+          "error": "Cód. inválido!"
+        },
+        "name": {
+          "label": "Nome e sobrenome do titular"
+        },
+        "cpf": {
+          "label": "CPF do titular",
+          "error": "CPF inválido!"
+        },
+        "variation": {
+          "label": "Número de Parcelas",
+          "placeholder": "Selecione o número de parcelas",
+          "value": "{{installment}}x R$ {{price}} sem juros"
+        },
+        "terms": {
+          "description": "Ao clicar em \"Assinar agora\", você aceita as <a href=\"{{policies}}\">Políticas de Privacidade</a> e os <a href=\"{{terms}}\">Termos de uso</a> da DIO."
+        }
+      },
+      "period": {
+        "price": "<strong>R$ {{price}}</strong>/mês",
+        "monthly": {
+          "access": "Pagamento Mensal",
+          "description": "Valor total R$ {{price}}"
+        },
+        "quarterly": {
+          "access": "TRIMESTRAL <strong>- 3 MESES DE ACESSO</strong>",
+          "description": "R$ {{price}} cobrado trimestralmente"
+        },
+        "annual": {
+          "access": "ANUAL <strong>- 12 MESES DE ACESSO</strong>",
+          "description": "R$ {{price}} cobrado anualmente"
+        },
+        "lifetime": {
+          "access": "VITALÍCIO <strong>- ACESSO PARA SEMPRE</strong>",
+          "description": "Valor total R$ {{price}}"
+        }
+      },
+      "product-info": {
+        "description": "O que tem em sua assinatura:",
+        "free-days": "+ {{free_days}} dias grátis",
+        "renovation": "*Renovação automática",
+        "renovation-free-days": "*Renovação automática após os {{free_days}} dias grátis",
+        "PRO": {
+          "info-1": "Acesso ilimitado em bootcamps.",
+          "info-2": "Acesso a TODOS os cursos DIO PRO nas carreiras front-end, back-end, mobile, data & analytics, games, cloud e DevOps.",
+          "info-3": "Acesso a TODAS as formações profissionais exclusivas do DIO PRO para você se preparar e conquistar as melhores vagas do mercado tech.",
+          "info-4": "+200 projetos para você ganhar experiência prática.",
+          "info-5": "Certificado de conclusão.",
+          "info-6": "Cancelamento grátis em 7 dias.",
+          "info-7": "Acesso para sempre ao Atalho Secreto com episódios exclusivos com o passo a passo para ser contratado pelas maiores empresas de tecnologia."
+        },
+        "PRO_LIFETIME": {
+          "info-1": "Acesso ilimitado em bootcamps e os próximos lançamentos para sempre.",
+          "info-2": "Acesso para sempre a TODOS os cursos DIO PRO e próximos lançamentos nas carreiras front-end, back-end, mobile, data, inteligência artificial, games, cloud e DevOps.",
+          "info-3": "Acesso para sempre a TODAS as formações profissionais exclusivas do DIO PRO e próximos lançamentos para você se preparar e conquistar as melhores vagas do mercado tech.",
+          "info-4": "+200 projetos para você ganhar experiência prática e os próximos lançamentos para sempre.",
+          "info-5": "Certificado de conclusão.",
+          "info-6": "Cancelamento grátis em 7 dias.",
+          "info-7": "Acesso para sempre ao Atalho Secreto com o passo a passo para ganhar R$ 5.000/mês desenvolvendo e vendendo extensões para o Google Chrome usando copilotos de IA como ChatGPT, Cursor e OpenClaw."
+        },
+        "GLOBAL": {
+          "info-1": "Acesso ao curso de inglês para profissionais de tecnologia.",
+          "info-2": "Acesso ao Job Board com as melhores vagas internacionais.",
+          "info-3": "Acesso a mentorias de preparação para processos seletivos em inglês com experts globais.",
+          "info-4": "Acesso às acelerações internacionais.",
+          "info-5": "Acesso ilimitado ao DIO PRO.",
+          "info-6": "Cancelamento grátis em 7 dias.",
+          "info-7": "Acesso para sempre ao Atalho Secreto com episódios exclusivos com o passo a passo para ser contratado pelas maiores empresas de tecnologia."
+        },
+        "GLOBAL_LIFETIME": {
+          "info-1": "Acesso para sempre ao curso de inglês para profissionais de tecnologia.",
+          "info-2": "Acesso para sempre ao Job Board com as melhores vagas internacionais.",
+          "info-3": "Acesso para sempre a mentorias de preparação para processos seletivos em inglês com experts globais.",
+          "info-4": "Acesso garantido para sempre às acelerações internacionais.",
+          "info-5": "Acesso para sempre e ilimitado ao DIO PRO.",
+          "info-6": "Cancelamento grátis em 7 dias.",
+          "info-7": "Acesso para sempre ao Atalho Secreto com o passo a passo para ganhar R$ 5.000/mês desenvolvendo e vendendo extensões para o Google Chrome usando copilotos de IA como ChatGPT, Cursor e OpenClaw."
+        }
+      },
+      "summary-detail": {
+        "title": "Resumo",
+        "subscription-plan": "Plano de assinatura",
+        "product-price": "Valor do produto",
+        "discount": "Desconto aplicado",
+        "total": "Total",
+        "installments": "Você pagará",
+        "invalid-coupon": "Cupom inválido",
+        "period": {
+          "monthly": "Mensal",
+          "quarterly": "Trimestral",
+          "annual": "Anual",
+          "lifetime": "Vitalício"
+        },
+        "coupon-input": {
+          "label": "Tem um cupom?",
+          "placeholder": "Insira o código  do cupom"
+        }
+      }
+    },
+    "personal-data": {
+      "title": "Dados pessoais",
+      "name": "Olá,{{name}}",
+      "description": "Identificamos seu login ativo na plataforma. Caso não seja você, altere o e-mail e faça login novamente.",
+      "cta": "Usar outro usuário",
+      "components": {
+        "card-helper": {
+          "description": "Ao clicar no botão \"Continuar\", você aceita nossos <a href=\"{{terms}}\">Termos de uso</a> e <a href=\"{{policies}}\">Políticas de Privacidade</a>",
+          "support": "Em caso de problemas, acesse o link do <a href=\"{{support}}\">suporte</a>."
+        },
+        "login": {
+          "title": "Entre com sua conta da DIO",
+          "forgot-password": "Esqueci minha senha",
+          "cta": "Entrar",
+          "create-account": "Criar conta",
+          "email": {
+            "label": "E-mail"
+          },
+          "password": {
+            "label": "Senha",
+            "placeholder": "Senha",
+            "error": "Usuário ou senha inválido."
+          }
+        },
+        "register": {
+          "title": "Solicitamos apenas as informações essenciais para você fazer a sua compra.",
+          "required-message": "Faltou preencher esse campo!",
+          "invalid-phone": "Opss! Informe um telefone válido.",
+          "cta": "Criar conta",
+          "login": "Já tenho uma conta",
+          "name": {
+            "label": "Nome completo"
+          },
+          "email": {
+            "label": "E-mail",
+            "exists": "E-mail já registrado!",
+            "error": "E-mail inválido!"
+          },
+          "phone": {
+            "label": "Celular / Whatsapp"
+          },
+          "password": {
+            "label": "Senha",
+            "placeholder": "Senha"
+          }
+        }
+      }
+    },
+    "receipt": {
+      "credit-card": {
+        "description": {
+          "pro": "Agora você já tem acesso ilimitado a bootcamps, formações, projetos e cursos para dar o próximo passo na sua carreira em tecnologia.",
+          "global": "Agora você já tem acesso ilimitado ao curso de inglês English4Tech, Job Board com as melhores vagas internacionais, acelerações internacionais, bootcamps formações, cursos e projetos.",
+          "pro_lifetime": "Agora você já tem acesso ilimitado e para sempre a bootcamps, formações, projetos e cursos para dar o próximo passo na sua carreira em tecnologia.",
+          "global_lifetime": "Agora você já tem acesso ilimitado e para sempre ao curso de inglês English4Tech, Job Board com as melhores vagas internacionais, acelerações internacionais, bootcamps, formações, cursos e projetos."
+        },
+        "subscription": "Número da assinatura",
+        "payment-method": "Forma de pagamento",
+        "credit-card": "Cartão de crédito",
+        "pix": "PIX",
+        "card-number": "Número do cartão",
+        "button-message": "COMECE AGORA"
+      },
+      "pix": {
+        "toast-message": "Código copiado!",
+        "description": "A aprovação pode levar em cerca de 10 minutos.",
+        "expire-message": "Seu código Pix está abaixo, valido até {{expire}}",
+        "cta": "COPIAR CÓDIGO PIX",
+        "disclaime-1": "Caso já tenha pago, em breve a sua conta será liberada para o email: ",
+        "disclaime-2": "Caso o tempo de pagamento tenha expirado e o Pix não tenha sido pago, seu pedido será cancelado automaticamente. Não pague após esse horário."
+      },
+      "summary": {
+        "summary": "Resumo",
+        "status": "Status",
+        "value": "Valor",
+        "start-subscription": "Início da assinatura",
+        "buy-date": "Data da Compra",
+        "finish-subscription": "Término da assinatura",
+        "renewal-subscription": "Renovação da assinatura",
+        "finish-subscription-lifetime-value": "Ilimitado",
+        "status-options": {
+          "Pago": "Pago",
+          "Aguardando Pagamento": "Aguardando Pagamento"
+        },
+        "access-message": "O que você vai receber:",
+        "auto-renewal": "*Renovação Automática"
+      },
+      "title": {
+        "message": "Parabéns! Agora você é DIO {{plan_name}}",
+        "pix_message": "Obrigado pela compra!"
+      }
+    },
+    "upselling": {
+      "title": "Parabéns, {{name}}, agora você é PRO!",
+      "description": "Por apenas <c>R$ {{value}}</c> a mais na sua parcela, tenha acesso ao English4tech, o <s>curso de inglês da DIO</s> focado em tecnologia.",
+      "list": {
+        "item-1": "12 módulos do básico ao avançado;",
+        "item-2": "Aulas de conversação ao vivo;",
+        "item-3": "Painel de vagas internacionais disponíveis;",
+        "item-4": "Preparação para entrevistas em inglês;"
+      },
+      "disclaime": "Tudo pronto para dominar o inglês e conquistar os melhores salários junto ao DIO PRO?",
+      "deny": "Não quero essa oferta",
+      "cta-1": "Assinar curso de inglês",
+      "cta-2": "No cartão final {{last_digits}}"
+    },
+    "whatsapp": {
+      "hi": "Olá! 🙂",
+      "need-help": "Precisa de ajuda para realizar sua matrícula?"
+    },
+    "lifetime-upselling": {
+      "header": {
+        "warning": "Não feche ou atualize essa página!",
+        "attention": "<Text>ATENÇÃO</Text>: Sua compra <Text>NÃO ESTÁ</Text> completa",
+        "attention-global-lifetime": "<Text>Oferta única desbloqueada</Text>",
+        "progress": "75%"
+      },
+      "cta": {
+        "title": "Você é {{product_name}} e desbloqueou uma oferta exclusiva para ter acesso vitalício:",
+        "lists": {
+          "proList": {
+            "item1": "Investimento único e acesso para sempre a todas as funcionalidades do DIO GLOBAL;",
+            "item2": "Acesso ao curso de inglês do básico ao avançado para carreira de tecnologia para sempre e suas atualizações;",
+            "item3": "Acesso as melhores vagas internacionais;"
+          },
+          "globalList": {
+            "item1": "Investimento único e acesso para sempre a todas as funcionalidades do DIO GLOBAL;",
+            "item2": "Sem necessidade de pagamentos futuros para continuar evoluindo em sua carreira com o DIO GLOBAL;",
+            "item3": "Acesso a +1.750 cursos, projetos, formações e bootcamps, assim como novos lançamentos e atualizações;"
+          },
+          "proLifetimeList": {
+            "item1": "Investimento único e acesso para sempre a +1.750 cursos, bootcamps, projetos, formações e futuros lançamentos.",
+            "item2": "Acesso para sempre e matrículas ilimitadas em todos os bootcamps da DIO e próximos lançamentos.",
+            "item3": "Nunca mais se preocupar com renovações e reajustes de preços."
+          }
+        },
+        "upgradeTitle": "Fazer upgrade para o DIO GLOBAL VITALÍCIO",
+        "upgradePriceCard": "De <s>R${{amount}}</s> por <strong>R${{monthly_amount_diff}}</strong> a mais na sua parcela",
+        "upgradePricePIX": "De <s>R${{amount}}</s> por <strong>R${{monthly_amount_diff}}</strong> no PIX",
+        "upgradeButton": "FAZER UPGRADE GLOBAL VITALÍCIO",
+        "upgradeButtonMobile": "FAZER UPGRADE",
+        "proUpgradeTitle": "Faça upgrade para o DIO PRO Vitalício",
+        "proUpgradeButton": "FAZER UPGRADE PRO VITALÍCIO",
+        "cardInfo": "No cartão final {{card}}",
+        "terms": {
+          "text": "Ao clicar em \"Fazer Upgrade\", você aceita as <privacyPolicyLink>Políticas de Privacidade</privacyPolicyLink> e os <termsOfUseLink>Termos de Uso</termsOfUseLink> da DIO.",
+          "privacyPolicyLink": "Políticas de Privacidade",
+          "termsOfUseLink": "Termos de Uso"
+        }
+      },
+      "globalTestimonial": {
+        "text": "“Com o DIO GLOBAL, aperfeiçoei meu inglês e me preparei para entrevistas internacionais, o que me levou a ganhar em euro e conquistar minha primeira vaga na Europa.”",
+        "profile": {
+          "name": "Alexsander Rossi",
+          "position": "Senior Software Engineer in Portugal"
+        }
+      },
+      "proTestimonial": {
+        "text": "“Com o DIO PRO, encontrei um guia de carreira confiável para dominar na prática as tecnologias utilizadas pelas empresas mais inovadoras do mundo e conquistei minha vaga em uma da maiores empresas do mercado tech.”",
+        "profile": {
+          "name": "Alexsander Rossi",
+          "position": "Senior Software Engineer"
+        }
+      },
+      "cancelLink": "Continuar com o {{product_name}}. Não quero ser {{offer_product_name}}.",
+      "cancelLinkMobile": "Não quero upgrade",
+      "exitWarning": "Ao sair dessa página, você não verá essa oferta novamente."
+    },
+    "cross-sell": {
+      "header": {
+        "warning": "Não feche ou atualize essa página!",
+        "attention": "<Text>Oferta Skill Learning desbloqueada</Text>",
+        "progress": "99%"
+      },
+      "cta": {
+        "new-buy": "Faça sua compra agora com ",
+        "price": {
+          "card": "De <s>R${{amount}}</s> por <strong> apenas R${{monthly_amount_diff}}</strong> a mais na sua parcela",
+          "pix": "De <s>R${{amount}}</s> por <strong> apenas R${{monthly_amount_diff}}</strong> no PIX"
+        },
+        "button": "QUERO MEU ACESSO AGORA",
+        "terms": {
+          "text": "Ao clicar em \"{{term}}\", você aceita as <privacyPolicyLink>Políticas de Privacidade</privacyPolicyLink> e os <termsOfUseLink>Termos de Uso</termsOfUseLink> da DIO.",
+          "privacyPolicyLink": "Políticas de Privacidade",
+          "termsOfUseLink": "Termos de Uso"
+        }
+      },
+      "cancelLink": "Continuar com o {{product_name}}. Não quero obter essa oferta.",
+      "exitWarning": "Ao sair dessa página, você não verá essa oferta novamente.",
+      "mobile": {
+        "buy": "COMPRAR AGORA",
+        "not-buy": "Não quero a oferta"
+      }
+    }
+  },
+  "warning-messages": {
+    "title": "IMPORTANTE",
+    "canceled": {
+      "PRO_LIFETIME": {
+        "pro-monthly": "Você tem uma assinatura <strong>DIO PRO Mensal</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-quarterly": "Você tem uma assinatura <strong>DIO PRO Trimestral</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-annual": "Você tem uma assinatura <strong>DIO PRO Anual</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-lifetime": "Você já tem uma assinatura <strong>DIO PRO Vitalicio.</strong> Por ser um assinante, você possui uma condição especial para garantir o DIO GLOBAL vitalício  para ampliar seus benefícios para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-monthly": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL Mensal</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-quarterly": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL</strong> Trimestral com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-annual": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL Anual</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>"
+      },
+      "GLOBAL_LIFETIME": {
+        "pro-monthly": "Você tem uma assinatura <strong>DIO PRO Mensal</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-quarterly": "Você tem uma assinatura <strong>DIO PRO Trimestral</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-annual": "Você tem uma assinatura <strong>DIO PRO Anual</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-lifetime": "Você já tem uma assinatura <strong>DIO PRO Vitalicio.</strong><br/><br/>Assine o DIO GLOBAL vitalício  para ampliar seus benefícios para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-monthly": "Você tem uma assinatura <strong>DIO GLOBAL Mensal</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-quarterly": "Você tem uma assinatura <strong>DIO GLOBAL Trimestral</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-annual": "Você tem uma assinatura <strong>DIO GLOBAL Anual</strong> com término previsto em <strong>{{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>"
+      }
+    },
+    "renewable": {
+      "PRO_LIFETIME": {
+        "pro-monthly": "Você tem uma assinatura <strong>DIO PRO Mensal</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-quarterly": "Você tem uma assinatura <strong>DIO PRO Trimestral</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-annual": "Você tem uma assinatura <strong>DIO PRO Anual</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO PRO vitalício, estender a sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO PRO.</strong>",
+        "pro-lifetime": "Você já tem uma assinatura <strong>DIO PRO Vitalicio.</strong> Por ser um assinante, você possui uma condição especial para garantir o DIO GLOBAL vitalício  para ampliar seus benefícios para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-monthly": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL Mensal</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-quarterly": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL</strong> Trimestral com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-annual": "O DIO PRO Vitalicio não está disponível, pois você tem uma assinatura <strong>DIO GLOBAL Anual</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Por ser um assinante, você possui uma <strong>condição especial</strong> para garantir o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>"
+      },
+      "GLOBAL_LIFETIME": {
+        "pro-monthly": "Você tem uma assinatura <strong>DIO PRO Mensal</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <</strong>>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-quarterly": "Você tem uma assinatura <strong>DIO PRO Trimestral</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-annual": "Você tem uma assinatura <strong>DIO PRO Anual</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "pro-lifetime": "Você já tem uma assinatura <strong>DIO PRO Vitalicio.<br/><br/>Assine o DIO GLOBAL vitalício  para ampliar seus benefícios para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-monthly": "Você tem uma assinatura <strong>DIO GLOBAL Mensal</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-quarterly": "Você tem uma assinatura <strong>DIO GLOBAL Trimestral</strong> com renovação prevista para o dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>",
+        "global-annual": "Você tem uma assinatura <strong>DIO GLOBAL Anual</strong> com renovação prevista para o <strong>dia {{date}}</strong>.<br/><br/>Assine o DIO GLOBAL vitalício  para estender sua assinatura para sempre, eliminar o pagamento das renovações futuras e <strong>ter acesso permanente a todos os benefícios do DIO GLOBAL.</strong>"
+      }
+    }
+  },
+  "product-stripe": {
+    "footer-price": "de <lt>R${{old_amount}}</lt> <s>por R${{amount}}/mês</s>",
+    "slots": "{{slots}} vagas"
+  },
+  "pix": {
+    "pendent": {
+      "title": "Compra aguardando pagamento",
+      "toast-message": "Código copiado!",
+      "message": "Seu acesso será disponibilizado assim que o pagamento por Pix for confirmado.",
+      "cta": "COPIAR CÓDIGO PIX",
+      "warning": {
+        "strong": "IMPORTANTE",
+        "message": "Não saia dessa página após realizar o pagamento! Você será redirecionado para sua assinatura automaticamente."
+      },
+      "expire": {
+        "title": "Seu código Pix expira em:",
+        "message": "Caso o tempo de pagamento tenha expirado e o Pix não tenha sido pago, seu pedido será cancelado automaticamente."
+      }
+    },
+    "expired": {
+      "title": "Código Pix Expirado",
+      "message": "O código Pix expirou porque o pagamento não foi realizado dentro do prazo.",
+      "cta": "GERAR UM NOVO PIX",
+      "redirect": "Ou <a>clique aqui</a> para escolher outro método de pagamento."
+    }
+  }
+}
+�E���      jjI��Yj �   [    O^partitionKey=%28https%2Cdio.me%29,:https://web.dio.me/locales/pt-BR/modules/checkout.json strongly-framed 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAAAAgAAAAAAAAAAAAAAAAAAAAEAOQFmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAUkMIIFIDCCBAigAwIBAgIRAM2Cp+cBXjHKEs3YXKUgnvgwDQYJKoZIhvcNAQELBQAwOzELMAkGA1UEBhMCVVMxHjAcBgNVBAoTFUdvb2dsZSBUcnVzdCBTZXJ2aWNlczEMMAoGA1UEAxMDV1IzMB4XDTI2MDQwODA5MDgwM1oXDTI2MDcwNzEwMDI1N1owFTETMBEGA1UEAxMKd2ViLmRpby5tZTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANMuxK7yPMY1TgcXq6zeXKzS/J7fY+gzfUGeqTAnfyQu+icaSc5h/s7Sv1vbFgLeuoSWyM5gVQkkaohYA48lkR6Bl5W8RBw3GRf3Rw4/XMOHsOfObisQF9rdaTenSfYHvhDsE5Pa6LrB1C7NciHwbTGd21cpjPTYhXHyEet4XWh4AGKNoluF3bi4cXTUOzv+xTWsx40jqJ7jaLR+6n2LlHk/uclgnRzzOih1z3y8o953myfp6mccuJmqIKIHSwiIRoyuYxhdYEtzR5stcRfxdbXag9hRkc6GDm+NdbtRib1DbFuf3i5d8y7v9GyeBWhiFDR9lb3manBnjTfXY6WFIHMCAwEAAaOCAkMwggI/MA4GA1UdDwEB/wQEAwIFoDATBgNVHSUEDDAKBggrBgEFBQcDATAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBQo0+q8f+BRvsCXFsmht8PNx/3/AjAfBgNVHSMEGDAWgBTHgfX9jojZADxNY6JQMSSgziP+IzBeBggrBgEFBQcBAQRSMFAwJwYIKwYBBQUHMAGGG2h0dHA6Ly9vLnBraS5nb29nL3Mvd3IzL3pZSTAlBggrBgEFBQcwAoYZaHR0cDovL2kucGtpLmdvb2cvd3IzLmNydDAVBgNVHREEDjAMggp3ZWIuZGlvLm1lMBMGA1UdIAQMMAowCAYGZ4EMAQIBMDYGA1UdHwQvMC0wK6ApoCeGJWh0dHA6Ly9jLnBraS5nb29nL3dyMy9ZTGFIazdNSHRDby5jcmwwggEEBgorBgEEAdZ5AgQCBIH1BIHyAPAAdgDYCVU7lE96/8gWGW+UT4WrsPj8XodVJg8V0S5yu0VLFAAAAZ1skDg1AAAEAwBHMEUCIHj4fQWhHCGNTMB5G4t5gikrRpNxLCiLvpnzY5aiyJ9bAiEA2++6xXIuzyrTXPQf1dE6d8RaaKjWizrlI+nvIbHacBkAdgDLOPcViXyEoURfW8Hd+8lu8ppZzUcKaQWFsMsUwxRY5wAAAZ1skDiHAAAEAwBHMEUCICIH4krc618zrJj6hvG0voVElmRdI3bgU30lb38HZt4GAiEAzkJLI3CN49MogiR8mqDFv71NjSaW49reGNzN6VwR5howDQYJKoZIhvcNAQELBQADggEBAEvhLzV01KZNwztR5i0rm/h+h4uJGL47ahvMB8HsBNzkiFWFkukla8/81N1SxLFluANioB8N8lXz2wQ9oBfriEirGNQwoN57HFuunrJu1x6UDyOhcO0IXCqxR9cZGnF5oY9rRV2ozyPIed52gJUcDrmh6BSyg0sKiCCNQdAS0+9pT2v71KJGrjLOxSAoUs09g+BDjedl23pKiSKJoPdTKej/vJfsF7CfUN7o6/qP7OA8Hq+y8BJznu+baEWGI9wHhAY+RIwnF1VY68ygI09phA31d0rCqK8gpf6W84omQ0tePFSznI7IxgAA49JhtvV68wu+gqsfmkwWRcNlFaEQadITAQAEAAAAAAABAQAAAAAAAAZ4MjU1MTkAAAAOUlNBLVBTUy1TSEEyNTYAA2YKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAABSQwggUgMIIECKADAgECAhEAzYKn5wFeMcoSzdhcpSCe+DANBgkqhkiG9w0BAQsFADA7MQswCQYDVQQGEwJVUzEeMBwGA1UEChMVR29vZ2xlIFRydXN0IFNlcnZpY2VzMQwwCgYDVQQDEwNXUjMwHhcNMjYwNDA4MDkwODAzWhcNMjYwNzA3MTAwMjU3WjAVMRMwEQYDVQQDEwp3ZWIuZGlvLm1lMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0y7ErvI8xjVOBxerrN5crNL8nt9j6DN9QZ6pMCd/JC76JxpJzmH+ztK/W9sWAt66hJbIzmBVCSRqiFgDjyWRHoGXlbxEHDcZF/dHDj9cw4ew585uKxAX2t1pN6dJ9ge+EOwTk9rousHULs1yIfBtMZ3bVymM9NiFcfIR63hdaHgAYo2iW4XduLhxdNQ7O/7FNazHjSOonuNotH7qfYuUeT+5yWCdHPM6KHXPfLyj3nebJ+nqZxy4maogogdLCIhGjK5jGF1gS3NHmy1xF/F1tdqD2FGRzoYOb411u1GJvUNsW5/eLl3zLu/0bJ4FaGIUNH2VveZqcGeNN9djpYUgcwIDAQABo4ICQzCCAj8wDgYDVR0PAQH/BAQDAgWgMBMGA1UdJQQMMAoGCCsGAQUFBwMBMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFCjT6rx/4FG+wJcWyaG3w83H/f8CMB8GA1UdIwQYMBaAFMeB9f2OiNkAPE1jolAxJKDOI/4jMF4GCCsGAQUFBwEBBFIwUDAnBggrBgEFBQcwAYYbaHR0cDovL28ucGtpLmdvb2cvcy93cjMvellJMCUGCCsGAQUFBzAChhlodHRwOi8vaS5wa2kuZ29vZy93cjMuY3J0MBUGA1UdEQQOMAyCCndlYi5kaW8ubWUwEwYDVR0gBAwwCjAIBgZngQwBAgEwNgYDVR0fBC8wLTAroCmgJ4YlaHR0cDovL2MucGtpLmdvb2cvd3IzL1lMYUhrN01IdENvLmNybDCCAQQGCisGAQQB1nkCBAIEgfUEgfIA8AB2ANgJVTuUT3r/yBYZb5RPhauw+Pxeh1UmDxXRLnK7RUsUAAABnWyQODUAAAQDAEcwRQIgePh9BaEcIY1MwHkbi3mCKStGk3EsKIu+mfNjlqLIn1sCIQDb77rFci7PKtNc9B/V0Tp3xFpoqNaLOuUj6e8hsdpwGQB2AMs49xWJfIShRF9bwd37yW7ymlnNRwppBYWwyxTDFFjnAAABnWyQOIcAAAQDAEcwRQIgIgfiStzrXzOsmPqG8bS+hUSWZF0jduBTfSVvfwdm3gYCIQDOQksjcI3j0yiCJHyaoMW/vU2NJpbj2t4Y3M3pXBHmGjANBgkqhkiG9w0BAQsFAAOCAQEAS+EvNXTUpk3DO1HmLSub+H6Hi4kYvjtqG8wHwewE3OSIVYWS6SVrz/zU3VLEsWW4A2KgHw3yVfPbBD2gF+uISKsY1DCg3nscW66esm7XHpQPI6Fw7QhcKrFH1xkacXmhj2tFXajPI8h53naAlRwOuaHoFLKDSwqIII1B0BLT72lPa/vUokauMs7FIChSzT2D4EON52XbekqJIomg91Mp6P+8l+wXsJ9Q3ujr+o/s4Dwer7LwEnOe75toRYYj3AeEBj5EjCcXVVjrzKAjT2mEDfV3SsKoryCl/pbziiZDS148VLOcjsjGAADj0mG29XrzC76Cqx+aTBZFw2UVoRBp0mYKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAABQ8wggULMIIC86ADAgECAhB/8AWpFWjWOrwihhaEqktaMA0GCSqGSIb3DQEBCwUAMEcxCzAJBgNVBAYTAlVTMSIwIAYDVQQKExlHb29nbGUgVHJ1c3QgU2VydmljZXMgTExDMRQwEgYDVQQDEwtHVFMgUm9vdCBSMTAeFw0yMzEyMTMwOTAwMDBaFw0yOTAyMjAxNDAwMDBaMDsxCzAJBgNVBAYTAlVTMR4wHAYDVQQKExVHb29nbGUgVHJ1c3QgU2VydmljZXMxDDAKBgNVBAMTA1dSMzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAI80dYevhHIUjQcQkW8DrPHUCDWaGfKbGIk0bJiPetTd6gXo3ht8jFQSunmK+xgNDXyc87045KhexjPLRolvRqDpN2ON3MzVl04yrXsdIwW59XtJQ5jQvFfHU3gYse2nVLJ8hr7wVEW8h7qZWR30uNsA+4FPRitiXrE6pSoXI6yivsWO5V79cR59pLQjfQRSsjTS35msh8ZMWV/45k+OdZLCsjBGktC2DcfkiWf/P1SUJ2XjAchKLIQvZV/NrVz9pq1BW9xMPxeWkX2p2DxTKhzQ5tR35kNKwrf4SKLNrWO1JWuWch2BRW+GacTk5nhMMeahf6cBcwqH74eJcszTxY0CAwEAAaOB/jCB+zAOBgNVHQ8BAf8EBAMCAYYwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8CAQAwHQYDVR0OBBYEFMeB9f2OiNkAPE1jolAxJKDOI/4jMB8GA1UdIwQYMBaAFOSvKyZxGitIJ4UvUmYs7/CJE3E+MDQGCCsGAQUFBwEBBCgwJjAkBggrBgEFBQcwAoYYaHR0cDovL2kucGtpLmdvb2cvcjEuY3J0MCsGA1UdHwQkMCIwIKAeoByGGmh0dHA6Ly9jLnBraS5nb29nL3IvcjEuY3JsMBMGA1UdIAQMMAowCAYGZ4EMAQIBMA0GCSqGSIb3DQEBCwUAA4ICAQCcjUOUlDNIpxZvJdeslKyAoyjoobvhMyqGy5ODrtrQVfTbvnb56Ilvliw4lzwNU4dqXCk69u492XkG4ASAgrhVruX2Pcn0zX8SN5aMZMzdGizOYEka7zajPoRaLmrvnF4X6icmaHYeb3xr/IkAj+Y4Nerkuh9hxD0B98o/1kxm75jBb7+oerJfYmFo6e2+XuLxL6XVjwJwoSozU0UrizgQFg9EWNkNrA4dft9JyFtIxU+fk27TiWtTrG5+5mpGiwRDDajRQDLMOjIDnY1fMlNavUbYVWD/QD2F2tD/p970bfXrvMrE2pcSuzoyke20Si4ZumbZ+3OuZy+u5jFN/FzgbYbAGLcsUujM2nLTjaAN9cHMPKfWy1pazLv5CfMyVHn0XPqME6TlHgtP6ZrT4qOd9GEyHlPa5ybr0eS81C0NmVVrW0tSXOzTMsR1BJ6FMKNnpJiwa3ZsxUrp2+3HNzII/RANQWc1cLCDDXb6YZKQC6Pg5GLyQxGmcvxQSOQ1t3D0ovV5hsQLcPQY+57ZiTYAaHGSZx2bUGg6nTmRjD82eqCHtBXwMrIFNQduMfSleUuI6xI5j4IuHV5Mz4OjqtKOoacNB5RfKVmY8Ka695rDfwhWcFproSLPqmeBnW7o547/VTN+GbJObSfQb70lncpLYyrTyKw2BccueGUclqmGkWYKMiaRXE/7uyCJhaYy3wW9w5eaVCJM1YWJaWtuluqDAAAAAAAABVswggVXMIIDP6ADAgECAg0CA+WTbzGwE0mIa6IXMA0GCSqGSIb3DQEBDAUAMEcxCzAJBgNVBAYTAlVTMSIwIAYDVQQKExlHb29nbGUgVHJ1c3QgU2VydmljZXMgTExDMRQwEgYDVQQDEwtHVFMgUm9vdCBSMTAeFw0xNjA2MjIwMDAwMDBaFw0zNjA2MjIwMDAwMDBaMEcxCzAJBgNVBAYTAlVTMSIwIAYDVQQKExlHb29nbGUgVHJ1c3QgU2VydmljZXMgTExDMRQwEgYDVQQDEwtHVFMgUm9vdCBSMTCCAiIwDQYJKoZIhvcNAQEBBQADggIPADCCAgoCggIBALYRAose46F3mzvcv5Q+t5WnQDyh/YL5fTIGgnH29ox/++jbvGoul5ejjEv5K/ax+c6EHbH5xZfe77nyo+m8Eolep6pSq/gjJ8uksZxj29eZfvAKXutopvTGWkcNTRAz406xE6PIGGxL7PwJkN+dZCklIwehtNI9LmDgz9IJh7vNSPBNwsJ6iIq7us9ZGdavj7AHsJ4x8YLBwN8upm1sGQ612H4mGkUDPbB5pJQorQ9/JuWoCP6W6DxolFPugzqIKxWWCbLgeowuddac66dWZI+WT2iuPZfChI/AvEDAC1y99oezNWysGFB/hOBMzZLTIOkzvFKZrzK1KbMlKrRI+XLhymT35oIQjeidwoqI+jhmivxj+QH5eP17XHf6dof67N+xDnmVV7S9Ju/WAdHrFgq7jgu1xcWKVavTrOqRSynMGaQyJU4q8WVE0ALOqs5JtOqffIOwQHvnQ6unbKOPfYmB+kyl/9WOw85L4LXYs45Fz3bA7UAr/VMPsKfVOw2xiqID3jGtzHfqb3s+1t+RIhLmvvrYMvwQYxRRct5d1haTvSloM+86ZuwHiibfE9dXZXgn3l5JFACiAH+aqCG2qbGVsKW5DRYR2sdsSDxA4H4NWs1WPNGXBbnLS+05S5zEP9JVE24ksNZx+vTBusztG/X+gUHYAJg9Osiuepg3GAWVAgMBAAGjQjBAMA4GA1UdDwEB/wQEAwIBhjAPBgNVHRMBAf8EBTADAQH/MB0GA1UdDgQWBBTkrysmcRorSCeFL1JmLO/wiRNxPjANBgkqhkiG9w0BAQwFAAOCAgEAn6pCJtsLm77/HpaSLj6iZUpqmLoiy33BOtiCCgbG9qXewE6HZnmh+aZYnKr5teZg5+DosR5CQTMLNz3OiXAVyrUkqM9rtdJAIZjPIjTPO8UihODFDop8XYjkNSTOmz4aVB5u27KHp/zz+oFVFGIKWakiBTE+gtbu21c0vDOV0xcb6Ceii3tOJhp6WmS20aw38f2g8zjscvARdZ3LNFKN5nZrF8bfhqsnjkkrdWaBECGm6j70riX/fBXezowlP8picAr3LwlmB8g/HPzw20Uw32KIwbUPncOfSt5ZWUfFhyI25oKn7Qq54gegjXt6Sjxx0uIDoR8yB90b5ELODABFYYC1CyBZKXi9+VXLY8U8TPS2/9tqXzFrmZ4swWtQpNfmGBS9hT9nq0afoP9Cpzp/XMtdsHAdKzT11HYJDOt4TFkF8zNCw2EVEBt3Tc4ijNSF8kV9t1Pq70BalApcIF9OQF1iInbf/85hvYwjeNI3AuCO3tERN4n2v+1JB2KukuxAGq8UCdnQTrKi977u7tj/3Bot3rg2ceL8ebeUJdFIc1uhNeezmWd1wRk6K0dO00KO/THIFmba0gw827OOyaENgA97FncUv//bCZSyk7wgWBXp23FD894QwwDcqCqVtsLWP5Brdtts/oy88nA1DNyZGTXc18hGY9U2ca5X+7eCbdwAAAABAAAAAmgzAAEAAAAADndlYi5kaW8ubWU6NDQzAQA= request-method GET response-head HTTP/3 200 
+x-guploader-uploadid: AAVLpEhiJ5Y1lHK1MNLaEzuoLzoyZksKeQSC8UWpOCVYZ1TDCr-EB5afmHfAYstoc1_b-H-Q
+x-goog-generation: 1778002022091677
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 30334
+x-goog-meta-goog-reserved-file-mtime: 1778001751
+x-goog-hash: crc32c=ebbJEg==, md5=wCxmFRWW1D3ORSBpHhE5Dg==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 30334
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:38:56 GMT
+age: 557
+last-modified: Tue, 05 May 2026 17:27:02 GMT
+etag: "c02c66151596d43dce4520691e11390e"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+X-Firefox-Http3: h3
+ original-response-headers x-guploader-uploadid: AAVLpEhiJ5Y1lHK1MNLaEzuoLzoyZksKeQSC8UWpOCVYZ1TDCr-EB5afmHfAYstoc1_b-H-Q
+x-goog-generation: 1778002022091677
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 30334
+x-goog-meta-goog-reserved-file-mtime: 1778001751
+x-goog-hash: crc32c=ebbJEg==
+x-goog-hash: md5=wCxmFRWW1D3ORSBpHhE5Dg==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 30334
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:38:56 GMT
+age: 557
+last-modified: Tue, 05 May 2026 17:27:02 GMT
+etag: "c02c66151596d43dce4520691e11390e"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+ ctid 1 net-response-time-onstart 27 net-response-time-onstop 29   v~

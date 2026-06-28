@@ -1,0 +1,317 @@
+{
+  "step-1": {
+    "title": {
+      "1": "Join thousands of hired talents ",
+      "2": "by the most innovative companies in the world"
+    },
+    "form": {
+      "title": "Choose the area you want to develop"
+    },
+    "subtitle": "Tell us a little about yourself so we can recommend the best path for your professional future."
+  },
+  "step-2": {
+    "title": {
+      "1": "Reach your new ",
+      "2": "professional level"
+    },
+    "form": {
+      "title": "Choose a career for you to develop"
+    },
+    "subtitle": "You will receive recommendations for bootcamps, training, and projects according to your professional focus."
+  },
+  "step-3": {
+    "title": {
+      "1": "Certify yourself in the most valued skills ",
+      "2": "in the market"
+    },
+    "form": {
+      "title": "Choose a skill to improve"
+    },
+    "subtitle": "Discover more about skills and gain competencies that will boost your career"
+  },
+  "step-4": {
+    "title": {
+      "1": "We are going to connect you ",
+      "2": "with the largest companies in the world"
+    },
+    "form": {
+      "title": "Enrollment information",
+      "field": {
+        "cpf": {
+          "label": "CPF",
+          "sublabel": "(only for brazilians)",
+          "invalid": "CPF invalido",
+          "foreigner": "Sou estrangeiro"
+        },
+        "city": {
+          "label": "City",
+          "placeholder": "Enter your city",
+          "loading": "Loading cities...",
+          "noOptions": "No cities found"
+        },
+        "familyIncome": {
+          "label": "Family income",
+          "placeholder": "Choose your family income"
+        },
+        "gender": {
+          "label": "Gender",
+          "placeholder": "Enter your gender",
+          "options": {
+            "man": "Male",
+            "women": "Female",
+            "non-binary": "Non binary",
+            "not-inform": "I prefer not to inform",
+            "other": "Others"
+          }
+        },
+        "diversity": {
+          "label": "Do you belong to one or more diversity groups? If yes, which ones?",
+          "placeholder": "If you belong to any of the groups, please fill in this field."
+        }
+      }
+    },
+    "subtitle": "Fill in the information below to guarantee your free scholarship"
+  },
+  "step-5": {
+    "title": {
+      "1": "Build the best for your ",
+      "2": "professional future"
+    },
+    "form": {
+      "title": "Enrollment information",
+      "field": {
+        "experience": {
+          "label": "How many years of experience do you have as a technology professional?",
+          "placeholder": "Select"
+        },
+        "professionalMoment": {
+          "label": "What is your professional moment?",
+          "placeholder": "Select"
+        },
+        "workType": {
+          "label": "What types of work models are you willing to consider?",
+          "placeholder": "Select",
+          "options": {
+            "remote": "Remote",
+            "presential": "Presential",
+            "hybrid": "Hybrid"
+          }
+        },
+        "hireType": {
+          "label": "Which contract models do you want?",
+          "placeholder": "Select"
+        },
+        "salaryExpectation": {
+          "label": "Salary expectation (monthly)",
+          "placeholder": "R$0.00/monthly"
+        }
+      }
+    },
+    "subtitle": "You will receive updates on career advancement opportunities and jobs."
+  },
+  "step-6": {
+    "title": {
+      "1": "Thousands of people hired ",
+      "2": "without internships with DIO"
+    },
+    "form": {
+      "title": "Information about what you are studying.",
+      "field": {
+        "institution": {
+          "label": "Educational Institution",
+          "placeholder": "Select",
+          "loading": "Loading institutions...",
+          "noOptions": "No institutions found"
+        },
+        "level": {
+          "label": "Education Level",
+          "placeholder": "Select"
+        },
+        "course": {
+          "label": "Course",
+          "placeholder": "Select",
+          "loading": "Loading institutions...",
+          "noOptions": "No institutions found",
+          "create": "+ create new course",
+          "name": "Course name",
+          "options": {
+            "1": "Exact Sciences",
+            "2": "Human Sciences",
+            "3": "Biological Sciences"
+          },
+          "add": "Add your Course",
+          "save": "Save"
+        },
+        "start": {
+          "label": "Start"
+        },
+        "end": {
+          "label": "Expected completion"
+        },
+        "year": "Year",
+        "month": "Month"
+      },
+      "add": "+ add new course"
+    }
+  },
+  "step-7": {
+    "title": {
+      "1": "Security and privacy ",
+      "2": "of your data"
+    },
+    "subtitle": "Read and accept the Personal Data Processing Agreement.",
+    "form": {
+      "title": "Secure handling of your data",
+      "terms": "I declare that I have read and agree to the <privacyPolicyLink>Privacy Policy</privacyPolicyLink> and the <termsOfUseLink>Terms of Use</termsOfUseLink> of DIO, and <s>I authorize the processing of my personal data for the purposes described above</s>."
+    }
+  },
+  "not-decided": "I haven't decided yet",
+  "continue": "Continue",
+  "skip": {
+    "academic-formation": "I'm not currently studying",
+    "study-plan-form": "Skip"
+  },
+  "error": {
+    "required": "Required field",
+    "invalid": "Invalid field",
+    "max": "Please choose up to 2 options",
+    "not-decided": "I haven't decided yet, cannot be selected with other options",
+    "generic": "An error occurred, please try again later"
+  },
+  "congratulation": {
+    "title": "Enrollment successfully completed!",
+    "profile": {
+      "title": "Registration data",
+      "enrollment": "Enrollment:",
+      "ends": {
+        "bootcamp": "End of bootcamp: ",
+        "codecamp": "End of codecamp: ",
+        "degree": "End of degree: ",
+        "acceleration": "End of acceleration: "
+      }
+    },
+    "enrollment": {
+      "titles": {
+        "bootcamp": "At the end of the bootcamp you will: ",
+        "codecamp": "At the end of the codecamp you will: ",
+        "degree": "At the end of the degree you will: ",
+        "acceleration": "At the end of the acceleration you will: "
+      },
+      "skill": "Will be certified in the following skills:",
+      "talent": "You will be better positioned on Talent Match - our hiring platform", 
+      "level": "Your level on the platform will rise from {{old}} to {{new}}",
+      "certificate": "Receive the <1>certificate that qualifies your skills</1> most sought-after in the market",
+      "info": "Skills are the key to highlighting your profile on DIO! They reflect your learning journey and mastery in specific technologies, their tools and frameworks. By completing educational experiences, you gain XP, raising your profile and showing your evolution.",
+      "talent-info": "Talent Match is the DIO platform where the world's largest companies find and hire talents. The more you evolve your skills, the more you rise in the talent ranking, increase your visibility and your chances of hiring"
+    },
+    "starts": {
+      "bootcamp": "Start bootcamp",
+      "codecamp": "Start codecamp",
+      "degree": "Start degree",
+      "acceleration": "Start acceleration"
+    },
+    "talent": "You'll rank better on the Talent Match hiring platform"
+  },
+  "modal": {
+    "closed": {
+      "title": "Registration Closed",
+      "message": "Oops! It seems that the registration period for this program has already closed. Don't worry! There are still plenty of opportunities waiting for you.",
+      "suggest": "Check out our platform to see the programs that are currently open for registration and find the perfect one for you.",
+      "cta": "Explore Courses"
+    },
+    "inactive": {
+      "title": "Inactive Program",
+      "message": "Oops! It seems that the program you tried to access is no longer active on our platform. But don't be discouraged, we have several other options waiting for you.",
+      "suggest": "Take a look at our available courses and discover new learning possibilities.",
+      "cta": "View Available Programs"
+    },
+    "exists-enrollment": {
+      "title": "You're Already Enrolled",
+      "message": "We've verified that you're already enrolled in this program. How about checking your progress or exploring other available resources?",
+      "suggest": "Visit the \"My Programs\" section on our homepage to see your current courses and make the most of your learning journey with us.",
+      "cta": "Go to Bootcamp"
+    }
+  },
+  "study-plan": {
+    "title": {
+      "degree": "Degree ",
+      "acceleration": "Acceleration ",
+      "bootcamp": "Bootcamp ",
+      "codecamp": "Codecamp ",
+      "completed": " must be completed by ",
+      "goal": "Set a goal of at least ",
+      "hours": "{{ hour }} hours. ",
+      "week": "of study per week."
+    },
+    "premium-title": {
+      "1": "As a PRO or GLOBAL subscriber, you have the flexibility to study at your own pace. ",
+      "2": "Create a weekly plan ",
+      "3": "to stay focused and complete the bootcamp."
+    },
+    "hours": {
+      "1": "We recommend ",
+      "2": "{{ hour }} hours ",
+      "3": "of study per week"
+    },
+    "helper": "{{ hour }}h",
+    "helper-negative": {
+      "1": "You've set ",
+      "2": ". Check your study goal."
+    },
+    "helper-positive": {
+      "1": "Your defined goal is ",
+      "2": " of weekly study."
+    },
+    "goal": "Define your study goal",
+    "days": "Choose the days you want to study",
+    "time": "How much time do you want to dedicate to learning per day?",
+    "hour": "Hours",
+    "minute": "Minutes"
+  },
+  "degree": "Degree",
+  "bootcamp": "Bootcamp",
+  "codecamp": "Codecamp",
+  "acceleration": "Acceleration"
+}
+MßC~      j j IˆŒ_j@   g    O^partitionKey=%28https%2Cdio.me%29,:https://web.dio.me/locales/en/modules/enrollment-confirmation.json strongly-framed 1 security-info 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 request-method GET response-head HTTP/3 200 
+x-guploader-uploadid: AAVLpEjcPGB7KXX13J-rlUEOO8kQg8Y5-vx5O0so7cO41jKczltwBSiTh_7_gaXFFc4Xz3iZ
+x-goog-generation: 1769519932664976
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 9730
+x-goog-meta-goog-reserved-file-mtime: 1769519653
+x-goog-hash: crc32c=tdSHhA==, md5=wx0qEqW5iIIjuunCz8elsA==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 9730
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:14:30 GMT
+age: 2032
+last-modified: Tue, 27 Jan 2026 13:18:52 GMT
+etag: "c31d2a12a5b9888223bae9c2cfc7a5b0"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+X-Firefox-Http3: h3
+ original-response-headers x-guploader-uploadid: AAVLpEjcPGB7KXX13J-rlUEOO8kQg8Y5-vx5O0so7cO41jKczltwBSiTh_7_gaXFFc4Xz3iZ
+x-goog-generation: 1769519932664976
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 9730
+x-goog-meta-goog-reserved-file-mtime: 1769519653
+x-goog-hash: crc32c=tdSHhA==
+x-goog-hash: md5=wx0qEqW5iIIjuunCz8elsA==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 9730
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:14:30 GMT
+age: 2032
+last-modified: Tue, 27 Jan 2026 13:18:52 GMT
+etag: "c31d2a12a5b9888223bae9c2cfc7a5b0"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+ ctid 1 net-response-time-onstart 55 net-response-time-onstop 56   &

@@ -1,0 +1,492 @@
+{
+  "components": {
+    "address": {
+      "title": "Address",
+      "change": "Use another address",
+      "form": {
+        "wait-payment": "Awaiting Payment",
+        "description": "We only request the essential information for you to make your purchase.",
+        "required-message": "This field is required!",
+        "save": "Save address",
+        "zipcode": {
+          "label": "ZIP code",
+          "error": "Invalid ZIP code"
+        },
+        "street": {
+          "label": "Address",
+          "error": "Invalid address"
+        },
+        "street-number": {
+          "label": "House number",
+          "error": "Invalid number",
+          "placeholder": "number or s/n"
+        },
+        "complement": {
+          "label": "Complement (Optional)",
+          "placeholder": "Apartment, room, unit, building, floor, etc."
+        },
+        "neighborhood": {
+          "label": "Neighborhood",
+          "error": "Invalid neighborhood"
+        }
+      }
+    },
+    "error": {
+      "title": "Payment not authorized",
+      "message-1": "Please review the payment details or contact your card issuer.",
+      "message-2": "If you still have any questions or issues making the payment, contact us via WhatsApp.",
+      "try-again": "Try again"
+    },
+    "form": {
+      "wait-payment": "Awaiting Payment",
+      "expired": "Expired",
+      "helpers": {
+        "identify": "Identification",
+        "address": "Address",
+        "payment": "Payment",
+        "finish": "Finish"
+      }
+    },
+    "input-phone": {
+      "select-country": "Select country"
+    },
+    "loading": {
+      "title": "Processing purchase..."
+    },
+    "nav-bar": {
+      "safe-payment": "100% secure payment"
+    },
+    "payment": {
+      "title-pro": "Choose your payment method",
+      "title-global": "Card details",
+      "description": "Choose the best payment method.",
+      "summary-span": "You will pay",
+      "method": {
+        "credit-card": "Credit card",
+        "pix": "Pix"
+      },
+      "pix": {
+        "item-1": "Pay with PIX and do not use your card limit.",
+        "item-2": "The PIX QR Code will be displayed after clicking “Subscribe now.”",
+        "item-3": "It is simple and super secure. PIX payment was developed by the Central Bank to facilitate payments.",
+        "cta": "Subscribe now"
+      },
+      "information": {
+        "required-message": "This field is required!",
+        "cta": "Subscribe now",
+        "credit-card": {
+          "placeholder": "YOUR NAME HERE",
+          "valid": "valid until"
+        },
+        "card-number": {
+          "label": "Card number",
+          "error": "Invalid card!"
+        },
+        "expiry": {
+          "label": "Expiration date",
+          "error": "Invalid date!"
+        },
+        "cvv": {
+          "label": "Security code",
+          "error": "Invalid code!"
+        },
+        "name": {
+          "label": "Cardholder's name"
+        },
+        "cpf": {
+          "label": "Cardholder's CPF",
+          "error": "Invalid CPF!"
+        },
+        "variation": {
+          "label": "Installment Number",
+          "placeholder": "Select the number of installments",
+          "value": "{{installment}}x R$ {{price}} interest-free"
+        },
+        "terms": {
+          "description": "By clicking \"Subscribe now\", you accept the <a href=\"{{policies}}\">Privacy Policy</a> and <a href=\"{{terms}}\">Terms of use</a> of DIO."
+        }
+      },
+      "period": {
+        "price": "<strong>R$ {{price}}</strong>/month",
+        "monthly": {
+          "access": "Monthly Payment",
+          "description": "Total amount R$ {{price}}"
+        },
+        "quarterly": {
+          "access": "QUARTERLY <strong>- 3 MONTHS OF ACCESS</strong>",
+          "description": "R$ {{price}} charged quarterly"
+        },
+        "annual": {
+          "access": "ANNUAL <strong>- 12 MONTHS OF ACCESS</strong>",
+          "description": "R$ {{price}} charged annually"
+        },
+        "lifetime": {
+          "access": "LIFETIME <strong>- ACCESS FOREVER</strong>",
+          "description": "Total amount R$ {{price}}"
+        }
+      },
+      "product-info": {
+        "description": "What's included in your subscription:",
+        "free-days": "+ {{free_days}} free days",
+        "renovation": "*Automatic renewal",
+        "renovation-free-days": "*Automatic renewal after {{free_days}} free days",
+        "PRO": {
+          "info-1": "Unlimited access to bootcamps.",
+          "info-2": "Access to ALL DIO PRO courses in front-end, back-end, mobile, data & analytics, games, cloud, and DevOps careers.",
+          "info-3": "Access to ALL exclusive DIO PRO professional trainings to prepare you and help you land the best tech jobs.",
+          "info-4": "+200 projects for you to gain practical experience.",
+          "info-5": "Completion certificate.",
+          "info-6": "Free cancellation within 7 days.",
+          "info-7": "Lifetime access to the Secret Shortcut with exclusive episodes with step-by-step guidance to get hired by the biggest tech companies."
+        },
+        "PRO_LIFETIME": {
+          "info-1": "Unlimited access to bootcamps and all future launches, forever.",
+          "info-2": "Lifetime access to ALL DIO PRO courses and future launches in front-end, back-end, mobile, data, artificial intelligence, games, cloud, and DevOps careers.",
+          "info-3": "Lifetime access to ALL exclusive DIO PRO professional trainings and future launches to prepare you for the best tech jobs.",
+          "info-4": "+200 projects for you to gain practical experience and future releases, forever.",
+          "info-5": "Completion certificate.",
+          "info-6": "Free cancellation within 7 days."
+        },
+        "GLOBAL": {
+          "info-1": "Access to the English course for tech professionals.",
+          "info-2": "Access to the Job Board with the best international opportunities.",
+          "info-3": "Access to interview preparation mentoring in English with global experts.",
+          "info-4": "Access to international accelerations.",
+          "info-5": "Unlimited access to DIO PRO.",
+          "info-6": "Free cancellation within 7 days.",
+          "info-7": "Lifetime access to the Secret Shortcut with exclusive episodes with step-by-step guidance to get hired by the biggest tech companies."
+        },
+        "GLOBAL_LIFETIME": {
+          "info-1": "Lifetime access to the English course for tech professionals.",
+          "info-2": "Lifetime access to the Job Board with the best international opportunities.",
+          "info-3": "Lifetime access to interview preparation mentoring in English with global experts.",
+          "info-4": "Guaranteed lifetime access to international accelerations.",
+          "info-5": "Unlimited and lifetime access to DIO PRO.",
+          "info-6": "Free cancellation within 7 days."
+        }
+      },
+      "summary-detail": {
+        "title": "Summary",
+        "subscription-plan": "Subscription plan",
+        "product-price": "Product price",
+        "discount": "Discount applied",
+        "total": "Total",
+        "installments": "You will pay",
+        "period": {
+          "monthly": "Monthly",
+          "quarterly": "Quarterly",
+          "annual": "Annual",
+          "lifetime": "Lifetime"
+        },
+        "coupon-input": {
+          "label": "Have a coupon?",
+          "placeholder": "Enter the coupon code"
+        }
+      }
+    },
+    "personal-data": {
+      "name": "Hello, {{name}}",
+      "description": "We have identified your active login on the platform. If this is not you, change the email and log in again.",
+      "cta": "Use another user",
+      "components": {
+        "card-helper": {
+          "description": "By clicking the \"Continue\" button, you accept our <a href=\"{{terms}}\">Terms of use</a> and <a href=\"{{policies}}\">Privacy Policy</a>",
+          "support": "If you have any issues, access the <a href=\"{{support}}\">support</a> link."
+        },
+        "login": {
+          "title": "Sign in with your DIO account",
+          "forgot-password": "Forgot my password",
+          "cta": "Sign in",
+          "create-account": "Create account",
+          "email": {
+            "label": "Email"
+          },
+          "password": {
+            "label": "Password",
+            "placeholder": "Password",
+            "error": "Invalid username or password."
+          }
+        },
+        "register": {
+          "title": "We only request the essential information for you to make your purchase.",
+          "required-message": "This field is required!",
+          "invalid-phone": "Oops! Please enter a valid phone number.",
+          "cta": "Create account",
+          "login": "I already have an account",
+          "name": {
+            "label": "Full name"
+          },
+          "email": {
+            "label": "Email",
+            "exists": "Email already registered!",
+            "error": "Invalid email!"
+          },
+          "phone": {
+            "label": "Cell phone / Whatsapp"
+          },
+          "password": {
+            "label": "Password",
+            "placeholder": "Password"
+          }
+        }
+      }
+    },
+    "receipt": {
+      "credit-card": {
+        "description": {
+          "pro": "Now you have unlimited access to bootcamps, trainings, projects, and courses to take the next step in your technology career.",
+          "global": "Now you have unlimited access to the English4Tech English course, Job Board with the best international job opportunities, international accelerations, bootcamps, trainings, courses, and projects.",
+          "pro_lifetime": "Now you have unlimited and lifetime access to bootcamps, trainings, projects, and courses to take the next step in your technology career.",
+          "global_lifetime": "Now you have unlimited and lifetime access to the English4Tech English course, Job Board with the best international job opportunities, international accelerations, bootcamps, trainings, courses, and projects."
+        },
+        "subscription": "Subscription number",
+        "payment-method": "Payment method",
+        "credit-card": "Credit card",
+        "pix": "PIX",
+        "card-number": "Card number",
+        "button-message": "START NOW"
+      },
+      "pix": {
+        "toast-message": "Code copied!",
+        "description": "Approval may take around 10 minutes.",
+        "expire-message": "Your Pix code is below, valid until {{expire}}",
+        "cta": "COPY PIX CODE",
+        "disclaime-1": "If you have already paid, your account will soon be activated for the email: ",
+        "disclaime-2": "If the payment time has expired and the Pix has not been paid, your order will be automatically canceled. Do not pay after this time."
+      },
+      "summary": {
+        "summary": "Summary",
+        "status": "Status",
+        "value": "Value",
+        "start-subscription": "Subscription start",
+        "buy-date": "Purchase Date",
+        "finish-subscription": "Subscription end",
+        "renewal-subscription": "Subscription renewal",
+        "finish-subscription-lifetime-value": "Lifetime",
+        "status-options": {
+          "Pago": "Paid",
+          "Aguardando Pagamento": "Awaiting Payment"
+        },
+        "access-message": "What you will receive:",
+        "auto-renewal": "*Automatic Renewal"
+      },
+      "title": {
+        "message": "Congratulations! Now you are DIO {{plan_name}}",
+        "pix_message": "Thank you for your purchase!"
+      }
+    },
+    "upselling": {
+      "title": "Congratulations, {{name}}, you are now PRO!",
+      "description": "For only <c>R$ {{value}}</c> more on your installment, get access to English4tech, DIO's <s>English course</s> focused on technology.",
+      "list": {
+        "item-1": "12 modules from basic to advanced;",
+        "item-2": "Live conversation classes;",
+        "item-3": "Panel of available international job offers;",
+        "item-4": "Preparation for English interviews;"
+      },
+      "disclaime": "Are you ready to master English and get the best salaries with DIO PRO?",
+      "deny": "I don't want this offer",
+      "cta-1": "Subscribe to the English course",
+      "cta-2": "On the card ending {{last_digits}}"
+    },
+    "whatsapp": {
+      "hi": "Hello! 🙂",
+      "need-help": "Need help enrolling?"
+    },
+    "lifetime-upselling": {
+      "header": {
+        "warning": "Do not close or refresh this page!",
+        "attention": "<Text>ATTENTION</Text>: Your purchase is <Text>NOT</Text> complete",
+        "attention-global-lifetime": "<Text>Exclusive offer unlocked</Text>",
+        "progress": "75%"
+      },
+      "cta": {
+        "title": "You are {{product_name}} and unlocked an exclusive offer for lifetime access:",
+        "lists": {
+          "proList": {
+            "item1": "One-time investment and lifetime access to all DIO GLOBAL features.",
+            "item2": "Lifetime access to the English course from basic to advanced for a technology career and its updates.",
+            "item3": "Access to the best international job opportunities."
+          },
+          "globalList": {
+            "item1": "One-time investment and lifetime access to all DIO GLOBAL features.",
+            "item2": "No future payments needed to continue advancing your career with DIO GLOBAL.",
+            "item3": "Access to 1,750+ courses, projects, formations, and bootcamps, as well as new releases and updates."
+          },
+          "proLifetimeList": {
+            "item1": "One-time investment and lifetime access to 1,750+ courses, bootcamps, projects, formations, and future releases.",
+            "item2": "Lifetime access and unlimited enrollments in all DIO bootcamps and upcoming releases.",
+            "item3": "Never worry about renewals and price adjustments again."
+          }
+        },
+        "upgradeTitle": "Upgrade to DIO GLOBAL LIFETIME",
+        "upgradePriceCard": "From <s>R${{amount}}</s> to <strong>R${{monthly_amount_diff}}</strong> more on your installment",
+        "upgradePricePIX": "From <s>R${{amount}}</s> to <strong>R${{monthly_amount_diff}}</strong> on PIX",
+        "upgradeButton": "UPGRADE TO GLOBAL LIFETIME",
+        "upgradeButtonMobile": "UPGRADE",
+        "proUpgradeTitle": "Upgrade to DIO PRO Lifetime",
+        "proUpgradeButton": "UPGRADE TO PRO LIFETIME",
+        "cardInfo": "On the final card {{card}}",
+        "terms": {
+          "text": "By clicking \"Upgrade\", you accept DIO's <privacyPolicyLink>Privacy Policy</privacyPolicyLink> and <termsOfUseLink>Terms of Use</termsOfUseLink>.",
+          "privacyPolicyLink": "Privacy Policy",
+          "termsOfUseLink": "Terms of Use"
+        }
+      },
+      "globalTestimonial": {
+        "text": "“With DIO GLOBAL, I improved my English and prepared for international interviews, which led me to earn in euros and land my first job in Europe.”",
+        "profile": {
+          "name": "Alexsander Rossi",
+          "position": "Senior Software Engineer in Portugal"
+        }
+      },
+      "proTestimonial": {
+        "text": "“Com o DIO PRO, encontrei um guia de carreira confiável para dominar na prática as tecnologias utilizadas pelas empresas mais inovadoras do mundo e conquistei minha vaga em uma da maiores empresas do mercado tech.”",
+        "profile": {
+          "name": "Alexsander Rossi",
+          "position": "Senior Software Engineer"
+        }
+      },
+      "cancelLink": "Continue with {{product_name}}. I don't want to be {{offer_product_name}}.",
+      "cancelLinkMobile": "I don't want an upgrade",
+      "exitWarning": "By leaving this page, you will not see this offer again."
+    },
+    "cross-sell": {
+      "header": {
+        "warning": "Do not close or refresh this page!",
+        "attention": "<Text>Skill Learning offer unlocked</Text>",
+        "progress": "99%"
+      },
+      "cta": {
+        "new-buy": "Make your purchase now with ",
+        "price": {
+          "card": "From <s>R${{amount}}</s> to <strong> only R${{monthly_amount_diff}}</strong> extra on your installment",
+          "pix": "From <s>R${{amount}}</s> to <strong> only R${{monthly_amount_diff}}</strong> via PIX"
+        },
+        "button": "I WANT MY ACCESS NOW",
+        "terms": {
+          "text": "By clicking \"{{term}}\", you agree to DIO's <privacyPolicyLink>Privacy Policy</privacyPolicyLink> and <termsOfUseLink>Terms of Use</termsOfUseLink>.",
+          "privacyPolicyLink": "Privacy Policy",
+          "termsOfUseLink": "Terms of Use"
+        }
+      },
+      "cancelLink": "Continue with {{product_name}}. I don’t want the offer.",
+      "exitWarning": "If you leave this page, you won’t see this offer again.",
+      "mobile": {
+        "buy": "BUY NOW",
+        "not-buy": "I don’t want the offer"
+      }
+    }
+  },
+  "warning-messages": {
+    "title": "IMPORTANT",
+    "canceled": {
+      "PRO_LIFETIME": {
+        "pro-monthly": "You have a <strong>DIO PRO Monthly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-quarterly": "You have a <strong>DIO PRO Quarterly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-annual": "You have a <strong>DIO PRO Annual</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-lifetime": "You already have a <strong>Lifetime DIO PRO</strong> subscription. As a subscriber, you have a special offer to secure a lifetime DIO GLOBAL subscription to expand your benefits forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-monthly": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Monthly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-quarterly": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Quarterly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-annual": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Annual</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>"
+      },
+      "GLOBAL_LIFETIME": {
+        "pro-monthly": "You have a <strong>DIO PRO Monthly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-quarterly": "You have a <strong>DIO PRO Quarterly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-annual": "You have a <strong>DIO PRO Annual</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-lifetime": "You already have a <strong>Lifetime DIO PRO</strong> subscription.<br/><br/>Subscribe to Lifetime DIO GLOBAL to expand your benefits forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-monthly": "You have a <strong>DIO GLOBAL Monthly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-quarterly": "You have a <strong>DIO GLOBAL Quarterly</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-annual": "You have a <strong>DIO GLOBAL Annual</strong> subscription set to expire on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>"
+      }
+    },
+    "renewable": {
+      "PRO_LIFETIME": {
+        "pro-monthly": "You have a <strong>DIO PRO Monthly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-quarterly": "You have a <strong>DIO PRO Quarterly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-annual": "You have a <strong>DIO PRO Annual</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO PRO subscription, extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO PRO benefits.</strong>",
+        "pro-lifetime": "You already have a <strong>Lifetime DIO PRO</strong> subscription. As a subscriber, you have a special offer to secure a lifetime DIO GLOBAL subscription to expand your benefits forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-monthly": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Monthly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-quarterly": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Quarterly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-annual": "The Lifetime DIO PRO is not available because you have a <strong>DIO GLOBAL Annual</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>As a subscriber, you have a <strong>special offer</strong> to secure a lifetime DIO GLOBAL subscription to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>"
+      },
+      "GLOBAL_LIFETIME": {
+        "pro-monthly": "You have a <strong>DIO PRO Monthly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-quarterly": "You have a <strong>DIO PRO Quarterly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-annual": "You have a <strong>DIO PRO Annual</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "pro-lifetime": "You already have a <strong>Lifetime DIO PRO.</strong><br/><br/>Subscribe to Lifetime DIO GLOBAL to expand your benefits forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-monthly": "You have a <strong>DIO GLOBAL Monthly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-quarterly": "You have a <strong>DIO GLOBAL Quarterly</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>",
+        "global-annual": "You have a <strong>DIO GLOBAL Annual</strong> subscription set to renew on <strong>{{date}}</strong>.<br/><br/>Subscribe to Lifetime DIO GLOBAL to extend your subscription forever, eliminate future renewal payments, and <strong>gain permanent access to all DIO GLOBAL benefits.</strong>"
+      }
+    }
+  },
+  "product-stripe": {
+    "footer-price": "from <lt>R${{old_amount}}</lt> <s>to R${{amount}}/month</s>",
+    "slots": "{{slots}} slots"
+  },
+  "pix": {
+    "pendent": {
+      "title": "Purchase awaiting payment",
+      "toast-message": "Code copied!",
+      "message": "Your access will be granted as soon as the Pix payment is confirmed.",
+      "cta": "COPY PIX CODE",
+      "warning": {
+        "strong": "IMPORTANT",
+        "message": "Do not leave this page after making the payment! You will be redirected to your subscription automatically."
+      },
+      "expire": {
+        "title": "Your Pix code expires in:",
+        "message": "If the payment time has expired and Pix has not been paid, your order will be automatically canceled."
+      }
+    },
+    "expired": {
+      "title": "Expired Pix Code",
+      "message": "The Pix code has expired because the payment was not completed within the time limit.",
+      "cta": "GENERATE A NEW PIX",
+      "redirect": "Or <a>click here</a> to choose another payment method."
+    }
+  }
+}
+蘦Fe      jjI��Yj�   X    O^partitionKey=%28https%2Cdio.me%29,:https://web.dio.me/locales/en/modules/checkout.json strongly-framed 1 security-info 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 request-method GET response-head HTTP/3 200 
+x-guploader-uploadid: AAVLpEgoP7WBz7mcMx99Tky7QudDUiexni6LDc2MqmRRpmP1Faha9hqEbTKoJ2VFaMjPJBIJenRYUjE
+x-goog-generation: 1775583185178380
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 27872
+x-goog-meta-goog-reserved-file-mtime: 1775582913
+x-goog-hash: crc32c=Qqkd6g==, md5=WMzlUUryrUJ3PjtBZeHsCw==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 27872
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:00:29 GMT
+age: 2864
+last-modified: Tue, 07 Apr 2026 17:33:05 GMT
+etag: "58cce5514af2ad42773e3b4165e1ec0b"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+X-Firefox-Http3: h3
+ original-response-headers x-guploader-uploadid: AAVLpEgoP7WBz7mcMx99Tky7QudDUiexni6LDc2MqmRRpmP1Faha9hqEbTKoJ2VFaMjPJBIJenRYUjE
+x-goog-generation: 1775583185178380
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 27872
+x-goog-meta-goog-reserved-file-mtime: 1775582913
+x-goog-hash: crc32c=Qqkd6g==
+x-goog-hash: md5=WMzlUUryrUJ3PjtBZeHsCw==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 27872
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:00:29 GMT
+age: 2864
+last-modified: Tue, 07 Apr 2026 17:33:05 GMT
+etag: "58cce5514af2ad42773e3b4165e1ec0b"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+ ctid 1 net-response-time-onstart 25 net-response-time-onstop 26   l�

@@ -1,0 +1,1999 @@
+{
+  "locale": "en-US",
+  "components": {
+    "modal-terms": {
+      "byClicking": "By clicking \"accept\", you agree to the",
+      "and": "and",
+      "talent": "of Talent Match.",
+      "privacy": "Privacy Policies",
+      "terms": "Terms and Conditions",
+      "accept": "Accept",
+      "title": "Terms of Use"
+    },
+    "Button": {
+      "ButtonBack": {
+        "back": "BACK"
+      }
+    },
+    "tost": {
+      "toggle_switch_on": "Yay! You are now visible to DIO partner companies",
+      "toggle_switch_off": "Oh no! You are no longer visible to DIO partner companies :("
+    },
+    "alert": {
+      "confirm": "Confirm"
+    },
+    "Campaign": {
+      "forget": "Forget",
+      "goto": "Go to {{name}}"
+    },
+    "tour": {
+      "onboardingVideo": {
+        "title": "You are starting your new professional challenge!",
+        "text": "In the video below, you will have a complete tour of our platform and learn more about how DIO will accelerate your career in technology, alongside the most innovative companies in the world and the best experts."
+      },
+      "deegre": {
+        "title": "Formations",
+        "text": "Trainings are a set of courses and practical activities, from basic to advanced, about a certain technology to accelerate your career."
+      },
+      "ranking": {
+        "title": "Ranking and Community",
+        "text": "DIO is a platform where various interactions generate points (XP) for you to be ranked, such as: publishing a technical article, completing classes, bootcamps and training and actively participating in the community.",
+        "text_2": "Get to the top of the weekly ranking to gain prominence on DIO and have a better chance of being hired!"
+      },
+      "play": {
+        "title": "Courses",
+        "text": "This is where you'll find hundreds of bootcamps, courses, mentorships, accelerations, hands-on projects and other learning methods for you to explore."
+      },
+      "bootcamp": {
+        "title": "Start a bootcamp here",
+        "text": "Bootcamps are immersive training built with experts from major companies that fund scholarships for our community.",
+        "text_2": "By participating in a bootcamp, you become available for hiring at DIO's partner companies."
+      },
+      "profileMenu": {
+        "title": "Your Profile",
+        "text": "Here you can find the level of your profile and how much experience you have accumulated in courses, challenges, projects, and interactions with our community.",
+        "text_2": "You can also indicate if you are available for offers from partner companies and find out if your profile is fully filled out to receive opportunities."
+      }
+    },
+    "bootcamptour": {
+      "onboardingVideo": {
+        "title": "Learn how you can make the most of this bootcamp",
+        "text": "In the video below, you will get four tips on how to make the most of the journey you are starting and how you will be connected with DIO's partner companies through Talent Match."
+      },
+      "mentoring": {
+        "title": "Mentoring",
+        "text": "Calendar of mentorship sessions where you can be inspired by the talents of the world's most innovative companies, interacting and asking questions about career and technology."
+      },
+      "ranking": {
+        "title": "Ranking",
+        "text": "Here you will find the exclusive awards of this program and the criteria considered in the ranking."
+      },
+      "rooms": {
+        "title": "Rooms",
+        "text": "Space for you to chat with other participants in the bootcamp and expand your network."
+      },
+      "forum": {
+        "title": "Forum",
+        "text": "Space for you to interact and ask technical questions to our community."
+      },
+      "hottopic": {
+        "title": "Hot Topics",
+        "text": "Here you will find the main content posted in the Forum of this bootcamp."
+      }
+    },
+    "affiliatedtour": {
+      "onboardingVideo": {
+        "title": "Congratulations, {{var}}! You've taken the first step to start earning extra income with DIO",
+        "text": "Check out the video below to see how the DIO Affiliate Program works",
+        "text_2": "Get ready to earn R$1500 or more every month."
+      },
+      "resume": {
+        "title": "Summary",
+        "text": "Here you can check a summary of your sales and commissions."
+      },
+      "mysales": {
+        "title": "My Sales",
+        "text": "Check the status of your completed sales here."
+      },
+      "faq": {
+        "title": "Frequently Asked Questions",
+        "text": "Have any questions? Get all your doubts cleared here about the DIO Affiliate Program."
+      },
+      "bestsellers": {
+        "title": "Best-selling Courses",
+        "text": "Start earning money now by sharing your affiliate link with the best technology courses in the market to your network of contacts."
+      }
+    },
+    "CardPayment": {
+      "card_your_name": "YOUR NAME",
+      "card_valid": "VALIDITY",
+      "card_number": "Card Number",
+      "card_name": "Name on Card",
+      "valid": "Validity",
+      "terms_policy": "By clicking {{lbl_btn_pay}} you accept our <alink href='{{link_terms}}' target={{target}} rel='{{rel1}} {{rel2}}' className ={{class_name}}>Terms of Use</alink> and <alink href='{{link_policy}}' target={{target}} rel='{{rel1}} {{rel2}}' className={ {class_name}}>Privacy Policy</alink>."
+    },
+    "CardProfile": {
+      "level": "LEVEL {{level}}",
+      "experience": "Experience {{experience}}/{{experience_to_next}}"
+    },
+    "Certificate": {
+      "congrat": "Congratulations {{profile_name}}. ",
+      "we_from_dio": "We from DIO are immensely happy with your achievement.",
+      "you_are_making": "You are making a difference and contributing to building a vibrant dev community.",
+      "now_its_time": "Now it's time to share your achievement on networks.",
+      "click_to_continue": "Click here to continue",
+      "download_certificate": "Download certificate",
+      "share": "SHARE"
+    },
+    "Codex": {
+      "question": "Questions ?",
+      "Rooms_community": " Join and chat with thousands of devs in our Rooms community.",
+      "access_community": "ACCESS ROOMS COMMUNITY",
+      "send_challenge": "SUBMIT CHALLENGE",
+      "start_challenge": "START THE CHALLENGE",
+      "editor": {
+        "restart_code": "Restart Code",
+        "save": "SAVE",
+        "saved_now": "saved now",
+        "saved": "saved {{time}} ago",
+        "language": "Language",
+        "run_tests_msg": "Click on \"RUN TESTS\" to view the running of open tests and correct your algorithm according to the result.",
+        "open_tests": "Open Tests:",
+        "close_tests": "Submit Tests:",
+        "open_test_success": "Open tests were successful.",
+        "pass_test": "Tests passed.",
+        "click_submit": "Click on \"SUBMIT CHALLENGE\" to run all tests and finish this challenge.",
+        "processing_tests": "WE ARE PROCESSING THE RESULTS OF THE TESTS",
+        "running_tests": "WE ARE RUNNING THE TESTS",
+        "run_tests": "RUN TESTS",
+        "tests": "TESTS",
+        "type_code": "ENTER YOUR CODE HERE"
+      },
+      "faq": {
+        "community_msg1": "To ask questions about this challenge you should access and interact with the software developers in the community on Rooms",
+        "community_msg2": "Collaborative learning ability is one of the most recognized skills in the market as technologies are rapidly evolving and teamwork is a primary activity.",
+        "click_access": "click here to access",
+        "question_1": {
+          "name": "Why should I do this code challenge?",
+          "description": "This code challenge will help you to practice and apply the concepts presented in the classes and exercises. To excel in your software development career, you need to practice a lot with algorithms and real market projects. Both available at Digital Innovation One ."
+        },
+        "question_2": {
+          "name": "How can I ask questions about this challenge?",
+          "description": ""
+        },
+        "question_3": {
+          "name": "What are tests?",
+          "description": "The tests validate that the developed code meets all the conditions required in the challenge description."
+        },
+        "question_4": {
+          "name": "What are open tests?",
+          "description": "Open tests are examples that can be used to evaluate some of the requirements of the developed code. By clicking on an open test, it is possible to check the input parameters and the expected outputs. To run the open test, just click on the blue \"Run Tests\" button."
+        },
+        "question_5": {
+          "name": "What are hidden tests?",
+          "description": "The hidden tests validate that the developed code meets all the requirements of the solution after you click on the green “Submit Challenge” button."
+        },
+        "question_6": {
+          "name": "How many XP can you earn if the given challenge succeeds in all tests?",
+          "description": "Successfully completing a challenge will earn you 60 XP for challenges classified as Basic, 90 XP for Intermediate, and 120 XP for Advanced."
+        },
+        "question_7": {
+          "name": "If I submit the challenge and don't succeed in one or more tests, what happens?",
+          "description": "For every code developed and delivered without success you lose a heart."
+        },
+        "question_8": {
+          "name": "What do hearts represent?",
+          "description": "The hearts represent the possible amount of incorrectly submitted solutions available to you, with a maximum of 5. They serve to increase attention and critical thinking in the delivery of activities."
+        },
+        "question_9": {
+          "name": "How long does it take to recover a lost heart?",
+          "description": "A lost heart is recovered in 2 hours for FREE members and in 6 minutes for DIO PRO members."
+        },
+        "question_10": {
+          "name": "Do I have to complete the challenge to complete the bootcamp?",
+          "description": "Yes, to fully complete the bootcamp you must complete all challenges."
+        }
+      },
+      "settings": {
+        "theme": "Theme",
+        "font": "Font",
+        "yes": "YES",
+        "no": "NO",
+        "autocomplete": "Autocomplete"
+      },
+      "sidebar": {
+        "level_basic": "Basic",
+        "level_intermediary": "Intermediate",
+        "level_advanced": "Advanced",
+        "example": "Example:",
+        "read": "// Read the input line",
+        "print": "// Print the data",
+        "view_tour": "VIEW INTERACTIVE TOUR",
+        "description": "Description",
+        "instructions": "Instructions",
+        "questions": "Questions",
+        "message_stdio": "All input and output from algorithms the STDIN and STDOUT of each language are used, below are some tips on how to use each STDIN and STDOUT of each language.",
+        "stdio_javascript": "In JavaScript the functions of STDIN and STDOUT respectively are <s>gets</s> and <s>console.log</s>, the function gets is implemented internally to assist in data entry.",
+        "stdio_java": "In Java there are several ways to implement STDIN and STDOUT we recommend using <s>BufferedReader</s> for STDIN and <s>System.out.println</s> for STDOUT.",
+        "stdio_python": "In Python there are several ways to implement STDIN and STDOUT we recommend using <s>sys.stdin.readline</s> for STDIN and <s>print</s> for STDOUT."
+      },
+      "test": {
+        "input_data": "Input data:",
+        "output_data": "Expected output:",
+        "your_output": "Your Output:",
+        "message": "Message:",
+        "not_open_test": "This is not an open test.",
+        "test_index": "Test #{{i}}",
+        "click_run_tests": "Click the \"RUN TESTS\" button to view the output of your algorithm."
+      },
+      "tour": {
+        "step_1": "The challenge proposes you to practice computational thinking, requiring the creation of a solution implemented through your code with a set of expected inputs and outputs.",
+        "step_2": "In this area you must enter your code to solve the challenge.",
+        "step_3": "By clicking this button you can save your code as you develop.",
+        "step_4": "Here you can change the editor settings and make it your own.",
+        "step_5": "In this area you can find some instructions and tips for implementing your solution.",
+        "step_6": "",
+        "step_7": "Use this button you can run the open tests at any time so you can evaluate the code created as a solution to the challenge.",
+        "step_8": "If you have any questions, you can consult our FAQ.",
+        "step_9": "You can also ask questions from thousands of Devs in our Rooms community.",
+        "step_10": "After reviewing and testing your code you must submit the challenge for real-time evaluation.",
+        "step_11": "The hearts represent your number of incorrect attempts available and are retrieved over time.",
+        "content": {
+          "execute_description": "This area contains all the tests that will be executed together with your solution implementation.",
+          "open_test": "Open tests",
+          "open_description": " can be run at any time for you to evaluate the code created as a solution to the challenge.",
+          "close_test": "The tests with padlocks ",
+          "close_description": " are hidden and will only be executed when you decide to deliver your code."
+        }
+      }
+    },
+    "Content": {
+      "level_content_1": "Basic",
+      "level_content_2": "Intermediate",
+      "level_content_3": "Advanced"
+    },
+    "CourseCard": {
+      "level_course_1": "Basic",
+      "level_course_2": "Intermediate",
+      "level_course_3": "Advanced",
+      "start_now": "START NOW"
+    },
+    "DIO": {
+      "forum": {
+        "data": {
+          "all": "All",
+          "follow": "Following",
+          "me": "Mine",
+          "newest": "Latest",
+          "most_usual": "Most Voted",
+          "oldest": "Oldest",
+          "comments": "Most Commented",
+          "viewest": "Most Viewed"
+        },
+        "warn_bootcamp": "You must be participating in this bootcamp to be able to create a new topic.",
+        "warn_acceleration": "You must be participating in this acceleration to be able to create a new topic.",
+        "total_topics": "Total of {{count}} topic",
+        "total_topics_plural": "Total of {{count}} topics",
+        "new_topic": "NEW TOPIC"
+      },
+      "last-devs": {
+        "total_devs": "+ {{total_devs}} devs subscribed"
+      },
+      "quick-actions": {
+        "start_bootcamp": "Start a bootcamp",
+        "practice_project": "Practice with projects",
+        "publish_article": "Publish an article",
+        "accelerate_carrer": "Accelerate my career"
+      },
+      "profile-force": {
+        "title": "Profile strength in DIO: ",
+        "see_more": "See more.",
+        "message": "See the achievements you need to achieve to gain more strength in your Profile:",
+        "bronze": {
+          "name": "Basic Information",
+          "instruction": "Fill in the information from the first stage of your resume, putting the information: Link to your Linkedin profile, your city, phone number, skills you master and salary expectation.",
+          "description": "Your profile is Bronze, the journey is just beginning!"
+        },
+        "silver": {
+          "name": "Professional Experience",
+          "instruction": "Register at least 1 professional experience on your resume. Remember: informal experiences count too!",
+          "description": "Your profile is Silver! You have already taken an important step, but there are still many achievements ahead."
+        },
+        "gold": {
+          "name": "Academic Education",
+          "instruction": "You gain more strength in your profile when you have at least 1 completed academic background on your resume. It can be a technologist, a bachelor's degree or a bachelor's degree.",
+          "description": "Wow! Your profile is Gold, you are making great progress on the journey."
+        },
+        "platinum": {
+          "name": "Level above 6",
+          "instruction": "To increase your DIO Level, attend classes, complete courses, code challenges, and design challenges.",
+          "description": "Your profile is Platinum, you're halfway there and it's amazing. Don't stop there and keep moving forward!"
+        },
+        "diamond": {
+          "name": "Completion of at least 2 programs (Bootcamp or Acceleration)",
+          "instruction": "Choose a program that makes sense for your career and immerse yourself in the journey from start to finish.",
+          "description": "Your profile is Diamond and is gaining more and more prominence on the platform!"
+        },
+        "master": {
+          "name": "Reputation over 120",
+          "instruction": "You get reputation points when your posts and comments on Forums or Articles are positively evaluated by the community.",
+          "description": "Your profile is Master and it's amazing that you've made it this far. Keep gaining momentum!"
+        },
+        "hero": {
+          "name": "",
+          "instruction": "",
+          "description": "Wow! You are a true Hero and a reference in the community, your profile has reached full strength."
+        }
+      },
+      "search-content": {
+        "placeholder": "Search"
+      }
+    },
+    "HearthHealth": {
+      "hearts_recovery": "Hearts Recovery",
+      "next_fulling": "It will be full in {{next}}.",
+      "hearts_full": "You're all hearts full!"
+    },
+    "ImageUploader": {
+      "add": "Add skin",
+      "edit": "Edit cover"
+    },
+    "Ranking": {
+      "title": "Ranking of the Week"
+    },
+    "TrackCard": {
+      "level_track_1": "Basic",
+      "level_track_2": "Intermediate",
+      "level_track_3": "Advanced"
+    },
+    "TrackContentBody": {
+      "card": {
+        "challenges": "CHALLENGES",
+        "lessons": "LESSONS",
+        "live": "LIVE",
+        "project": "PROJECT",
+        "start_now": "START NOW",
+        "watch_live": "WATCH THE LIVE",
+        "enter_live": "ENTER LIVE",
+        "download_certificate": "DOWNLOAD CERTIFICATE",
+        "view_submissions": "VIEW SUBMISSIONS",
+        "continue": "CONTINUE"
+      }
+    },
+    "UserCard": {
+      "following": "FOLLOWING",
+      "follow": "FOLLOW"
+    },
+    "UsersList": {
+      "placeholder": "Search by name...",
+      "newest": "New Devs",
+      "most_reputation": "Highest Reputation",
+      "most_level": "Highest Level",
+      "total_devs": "Total people enrolled {{count}}",
+      "prev": "previous",
+      "next": "next"
+    },
+    "input": {
+      "textarea": {
+        "min": "Min",
+        "max": "Max",
+        "total": "Total"
+      }
+    },
+    "credit-card-info": {
+      "last-digits": "Ending in {{lastDigits}}",
+      "expires": "Expires",
+      "credit": "Credit",
+      "remove": "Remove card",
+      "show": "Change card",
+      "add-card": "Add card",
+      "new-card": {
+        "holderName": "Holder name",
+        "number": "Card number",
+        "expire": "Expiration date",
+        "cvv": "CVV",
+        "save": "Save card",
+        "cpf": "CPF",
+        "invalid": {
+          "holderName": "Invalid holder name",
+          "number": "Invalid card number",
+          "expire": "Invalid expiration date",
+          "cvv": "Invalid CVV",
+          "cpf": "Invalid CPF"
+        },
+        "error": {
+          "title": "Warning",
+          "message": {
+            "ERR_001": "A Pro or Global subscription is required to register a new card.",
+            "ERR_002": "Your email must be verified to register a new card.",
+            "ERR_003": "You have reached the daily limit of 5 registered cards.",
+            "ERR_004": "This credit card is invalid. Please check the entered details and try again, or register a new credit card."
+          }
+        }
+      },
+      "alert": {
+        "remove": {
+          "message": "Are you sure you want to remove this credit card?",
+          "title": "Attention"
+        },
+        "principal": {
+          "message": "You will need to select a new credit card to continue your active subscription.",
+          "title": "Attention"
+        }
+      }
+    }
+  },
+  "layouts": {
+    "Header": {
+      "close_menu": "Close Menu",
+      "open_menu": "Open Menu",
+      "close_menu_personal": "Close Personal Menu",
+      "open_menu_personal": "Open Personal Menu",
+      "close_menu_corp": "Close Corporate Menu",
+      "open_menu_corp": "Open Corporate Menu",
+      "solutions": "SOLUTIONS",
+      "search_placeholder": "Search",
+      "nav": {
+        "courses": "Courses",
+        "bootcamps": "Bootcamps",
+        "experts": "Experts",
+        "accelerations": "Accelerations",
+        "job-board": "Job Board",
+        "articles": "Articles",
+        "pro": "I want to be dio pro",
+        "rooms": "Rooms",
+        "pro_trial": "Free Trial DIO PRO",
+        "people_dashboard": "People Analytics",
+        "learning_courses": "Learning Experience",
+        "hiring_solution": "Hiring Solution",
+        "student_platform": "Student Platform",
+        "tracks": "Journeys",
+        "candidates": "Candidate Survey",
+        "selected_candidates": "Selected Candidates",
+        "dashboard": "Dashboard",
+        "people": "People",
+        "skills": "Skills",
+        "teams": "Teams",
+        "functions": "Functions",
+        "report": "Report",
+        "live-coding": "Live Coding",
+        "labs": "Labs",
+        "global": "Global Career",
+        "english4tech": "English Course",
+        "play": "Courses",
+        "formations": "Trainings",
+        "upgrade": "Upgrade"
+      },
+      "information-bar": {
+        "notifications": {
+          "notifications": "Notifications",
+          "alert": "You don't have any new notifications! ;)"
+        },
+        "hearts": {
+          "close": "Close Hearts Bookmarks",
+          "open": "Open Hearts Bookmarks",
+          "hearts": "Hearts",
+          "recuperate": "Hearts Recovery",
+          "full": "You are full of hearts!",
+          "next-fulling": "It will be complete in {{next}}"
+        },
+        "personal_menu": {
+          "profile": "Profile and Curriculum",
+          "curriculum": "CV",
+          "certificates": "Certificates",
+          "subscription": "Subscription",
+          "need_help": "Need help?",
+          "signout": "Sign out",
+          "opportunities": "My vacancies",
+          "quick-start": "Open quick start",
+          "affiliated": "Affiliates",
+          "central-help": "Need help?",
+          "onboarding": "Start here",
+          "bootcamp-onboarding": "About Bootcamps",
+          "affiliated-onboarding": "About Affiliates",
+          "public-profile": "Public profile"
+        }
+      }
+    },
+    "NoticeCountdown": {
+      "day": "Day",
+      "day_plural": "Days",
+      "hour": "Hour",
+      "hour_plural": "Hours",
+      "minute": "Minute",
+      "minute_plural": "Minutes",
+      "second": "Second",
+      "second_plural": "Seconds"
+    },
+    "search": {
+      "result-items": {
+        "acceleration": "in Acceleration",
+        "article": "in Article",
+        "bootcamp": "in Bootcamp",
+        "course": "in Course",
+        "user": "in Community Members",
+        "no_results": "No results found"
+      },
+      "result-box": {
+        "filters": "Filters",
+        "all": "All ({{all}})",
+        "bootcamp": "Bootcamp ({{bootcamp}})",
+        "acceleration": "Acceleration ({{acceleration}})",
+        "course": "Course ({{course}})",
+        "article": "Article ({{article}})",
+        "members": "Community Members ({{members}})"
+      }
+    }
+  },
+  "utils": {
+    "functions": {
+      "profile": "profile",
+      "curriculum": "curriculum",
+      "upper_profile": "PROFILE",
+      "upper_curriculum": "CURRICULUM",
+      "capitalize_profile": "Profile",
+      "capitalize_curriculum": "Curriculum"
+    }
+  },
+  "views": {
+    "student": {
+      "acceleration": {
+        "header": {
+          "title": "Acceleration",
+          "activities": "{{count}} ACTIVITIES",
+          "congrat": "Congratulations! You're ready to accelerate.",
+          "calm": "Calm down, that was close.",
+          "not_approved": "You have not passed the qualifying challenge for this Global Dev Acceleration",
+          "not_confirmed": "You haven't confirmed your subscription yet!",
+          "to_confirm": "To confirm, do the ranked challenge.",
+          "date_expired": "Enrollment date expired on {{date}}",
+          "not_subscribed": "NOT SUBSCRIBED YET?",
+          "start_now": "START NOW, IT IS FREE!",
+          "start_now_global": "USE YOUR GLOBAL PLAN AND ACCELERATE YOUR CAREER NOW!",
+          "accelerate_now": "Accelerate now",
+          "cv": "Complete my resume",
+          "download_certificate": "DOWNLOAD CERTIFICATE",
+          "almost_there": "YOU ARE ALMOST THERE",
+          "to_bootcamps": "GO TO BOOTCAMPS",
+          "continue_sub": "CONTINUE SUBSCRIPTION",
+          "update_profile": "Update {{profile}}",
+          "to_generate": "To generate the certificate of <s>{{track_name}}</s> it is necessary to have the {{profile}} fully filled in.",
+          "fill": "FILL MY {{profile}}",
+          "send": "Certificate sent to email {{email}}",
+          "information": {
+            "enroll": "Enroll by {{date}}",
+            "challenge": "Do the ranked challenge by {{date}}",
+            "accelerate": "Accelerate with experts and network during the event that will take place on {{date}}",
+            "invite": "Get invitations to opportunities"
+          }
+        },
+        "body": {
+          "path_lbl": "ACTIVITIES",
+          "mentoring_lbl": "MENTORING",
+          "forum_lbl": "FORUM",
+          "devs_lbl": "ENROLLED",
+          "path_mentoring": {
+            "congrat": "CONGRATULATIONS YOU'RE ONE STEP AWAY FROM CONQUERING ACCELERATION!",
+            "course": "Course",
+            "project": "Project Challenge",
+            "challenge": "Code Challenge",
+            "live": "live"
+          },
+          "sidebar": {
+            "community_lbl": "#COMMUNITY",
+            "hottopic_lbl": "#HOTTOPIC",
+            "first_person": "Be the first person to start a conversation in the community.",
+            "see_all": "SEE ALL",
+            "community": {
+              "item_1": "CLEAR YOUR DOUBTS AND SHARE ON THE FORUM",
+              "item_2": "COLLABORATE IN REAL TIME ON ROOMS",
+              "item_3": "CREATE ARTICLES TO SHARE KNOWLEDGE",
+              "item_4": "REFER A FRIEND",
+              "item_5": "GET TO KNOW THE FREQUENTLY ASKED QUESTIONS"
+            }
+          }
+        },
+        "modal": {
+          "to_iniciate": "To start this online acceleration and earn the certificate, you need to register and pass the qualifying challenge.",
+          "subscribe_now": "SUBSCRIBE NOW",
+          "sub_now_": "Subscribe now",
+          "hello_dev": "Hello Dev, this Program is exclusive to <s>{{prod_name}}</s> subscribers. Subscribe now and make the change!"
+        }
+      },
+      "accelerations": {
+        "title": "Accelerations",
+        "phrase": "Learn in an immersive way with practical classes and projects to accelerate your career",
+        "alert": "No acceleration available at the moment.",
+        "acceleration-card": {
+          "accelerate_now": "ACCELERATE NOW",
+          "whos_subscribed": "Who is already subscribed?"
+        }
+      },
+      "article": {
+        "delete_comment": "Do you really want to delete the comment?",
+        "error": "There was an error, please try again later.",
+        "cancel": "CANCEL",
+        "delete": "DELETE",
+        "delete_article": "Do you really want to delete this article?",
+        "edit_comment": "Edit Comment",
+        "response": "Response *",
+        "description": "Description *",
+        "save_response": "SAVE ANSWER",
+        "edit_article": "Edit Article",
+        "technologys": "Technologies involved (max. 3)",
+        "type_technology": "Enter the technology",
+        "save": "TO SAVE",
+        "cant_vote": "Unfortunately you can't vote!",
+        "level_vote": "You must be at least <s>level {{level}}</s> to be able to vote.",
+        "close": "CLOSE",
+        "comments": "Comments ({{count}})",
+        "first": "Be the first to comment on the article by",
+        "follow_publish": "FOLLOW",
+        "following_publish": "FOLLOWING",
+        "oldest": "Oldest",
+        "newest": "Newest",
+        "most_usual": "Most Usual",
+        "previous": "Previous",
+        "next": "Next",
+        "up-vote": "This article is relevant",
+        "down-vote": "This article is not relevant",
+        "up-vote-comment": "This comment is relevant",
+        "down-vote-comment": "This comment is not relevant",
+        "comment-button": "Comment",
+        "comment": "Comment",
+        "mark_best_answer": "Mark as best answer.",
+        "best_answer": "Chosen as the best answer by the author."
+      },
+      "articles": {
+        "feed": "Feed",
+        "all_articles": "All Articles",
+        "all_articles_by": "All Articles by {{corp_name}}",
+        "my_articles": "My Articles",
+        "load_more": "LOAD MORE",
+        "sidebar_left": {
+          "filter": "Filter by Tags"
+        },
+        "sidebar_right": {
+          "publish_article": "PUBLISH AN ARTICLE",
+          "last_top_articles": "LAST TOP ARTICLES"
+        }
+      },
+      "browse": {
+        "title": "Courses",
+        "phraseB2B": "Certified courses for you to learn the most requested technologies by the market at your own pace and with the best experts.",
+        "phraseB2C": "The most demanded technology, business and leadership courses by the market at your own pace and with the best experts.",
+        "components": {
+          "filter": {
+            "title": "Technologies",
+            "clean": "Clean"
+          },
+          "list": {
+            "count_courses_header": "Courses ({{count}})"
+          }
+        }
+      },
+      "certificates": {
+        "my_certificates": "My Certificates ({{count}})",
+        "load_more": "LOAD MORE",
+        "see_all": "See All",
+        "input_placeholder": "Enter name to filter",
+        "download": "DOWNLOAD CERTIFICATE",
+        "no_certificates": "You haven't earned any certificates yet. ",
+        "get_certificates": " and earn your first certificate.",
+        "click_here": "Click here",
+        "loading": "We are loading your certificate.",
+        "failed-load-image": "We couldn't load your certificate image, please try again later.",
+        "share": "SHARE ON LINKEDIN"
+      },
+      "coding": {
+        "pts_will_be_add": "Your points will be added upon completing all code challenges.",
+        "pts_were_add": "Your points have already been added, continue with the next tests and accumulate more points to be ranked!",
+        "you_complete": "You have successfully completed the challenge!",
+        "go_next_challenge": "GO TO NEXT CHALLENGE",
+        "see_badge": "SEE YOUR BADGE",
+        "continue": "CONTINUE",
+        "continue_bootcamp": "CONTINUE IN BOOTCAMP",
+        "lost_heart": "You lost 1 heart because your code didn't pass all tests.",
+        "fix_resend": "FIX AND SUBMIT CHALLENGE",
+        "congrats": "Congratulations!",
+        "congrat_with_exp": "Congratulations! +{{exp}} XP",
+        "error_code": "Error code!",
+        "without_heart": "To deliver the challenge, you must have at least 1 heart available.",
+        "back_to_code": "BACK TO CODE",
+        "challenge_submit": "Challenge submitted!",
+        "remaining": "REMAINING TIME",
+        "challenges": "Challenges",
+        "select": "Select"
+      },
+      "configuration": {
+        "Billing": {
+          "my_subscription": "My subscription",
+          "manage_dio_pro": "Here you can manage your DIO PRO subscription.",
+          "components": {
+            "Card": {
+              "my_subscription": "My subscription",
+              "add_new_card": "Add your new credit card",
+              "switch": "Switch"
+            },
+            "Financial": {
+              "switch_card": "Switch card",
+              "insert_card": "Insert card",
+              "financial_data": "Financial Data",
+              "want_be_pro": "I want to be PRO"
+            },
+            "Plan": {
+              "sub_canceled": "Your subscription is cancelled, but you still have access to PRO until: {{finish_date}}",
+              "next_charge": "Next charge",
+              "actual_plan": "Current plan",
+              "price": "Price",
+              "free_access": "Your Free access to DIO PRO will be until: {{finish_date}}",
+              "status": "Status",
+              "cancel": "Cancel",
+              "keep_pro": "I WANT TO CONTINUE BEING PRO",
+              "want_be_pro": "I WANT TO BE PRO",
+              "cancel_sub_ask": "Do you want to cancel your subscription?",
+              "cancel_sub_desc": "By canceling you will lose all DIO PRO benefits, are you sure you want to cancel your subscription?",
+              "cancel_sub": "Cancel Subscription",
+              "close": "Close"
+            },
+            "Transactions": {
+              "no_transactions": "You have no transactions yet.",
+              "title": "Transactions",
+              "date": "Date",
+              "value": "Value",
+              "card": "Card",
+              "flag": "Flag",
+              "status": "Status"
+            }
+          }
+        }
+      },
+      "faq": {
+        "not_found": "Didn't find your question?",
+        "access_central": "Access our help center by clicking here",
+        "steps": {
+          "bootcamps": "BOOTCAMPS",
+          "begginer": "BEGINNER",
+          "starter": "STARTER",
+          "starter_description": "A complete learning journey for anyone starting their career in software development.",
+          "enter": "ENTER",
+          "intermediary": "INTERMEDIARY",
+          "professional": "PROFESSIONAL",
+          "professional_description": "Learn in an immersive way from experts and stand out in the opportunities of partner companies.",
+          "dio_pro": "DIO PRO",
+          "intermediary_advanced": "INTERMEDIARY & ADVANCED",
+          "intermediary_advanced_description": "Boost your curriculum and advance faster by creating projects and specializing in the technologies most in demand by innovative companies.",
+          "accelerations": "ACCELERATIONS",
+          "advanced": "ADVANCED",
+          "advanced_description": "Accelerate your knowledge and skills with experts from major global companies to win the world."
+        }
+      },
+      "home": {
+        "hello_title": "HELLO {{name}}, IT'S TIME TO ACCELERATE YOUR LEARNING PROCESS WITH THE WHOLE COMMUNITY.",
+        "challenges_waiting": "Challenges waiting for my answer",
+        "courses_inprogress": "My courses in progress",
+        "meet_dio_pro": "MEET DIO PRO",
+        "see_more": "See More",
+        "practice": "Practice unlimitedly by creating your portfolio with practical projects to become a highly sought after developer by tech companies.",
+        "promo": "DIO PRO SALE 40% OFF",
+        "live_on": "LIVE",
+        "dio_pro_summit": "DIO PRO Summit",
+        "enter_session": "Join Session",
+        "dio_pro_summit_description": " DIO PRO Summit is the largest Digital Innovation One online event, bringing together all software developers in the community.",
+        "bootcamp_inprogress": "My bootcamp in progress",
+        "recommendation": {
+          "deegre": {
+            "title": "RECOMMENDED TRAINING 🔥",
+            "desc": "Master artificial intelligence. Boost your productivity 100x and seize the best opportunities in the global market."
+          },
+          "labs": {
+            "title": "TOP PROJETOS PARA VOCÊ"
+          },
+          "bootcamp": {
+            "title": "START YOUR JOURNEY HERE",
+            "sub-title": "Bootcamp",
+            "description": "Learn {{techs}} with {{corporate}} Experts",
+            "button": "KNOW MORE"
+          }
+        },
+        "mobile": {
+          "hello_title": "HELLO, IT'S TIME TO ACCELERATE YOUR LEARNING PROCESS WITH THE WHOLE COMMUNITY.",
+          "perfil": "profile",
+          "feed": "Feed",
+          "community": "Ranking"
+        },
+        "components": {
+          "timeline": {
+            "feed": "FEED",
+            "all": "ALL",
+            "topics": "TOPICS",
+            "articles": "ARTICLE",
+            "load_more": "LOAD MORE"
+          },
+          "modal-dio-play": {
+            "next": "Next",
+            "conclude": "Conclude",
+            "onboard_1": {
+              "header": "Introducing <s>DIO PLAY</s>",
+              "content": "<p>In search of improvements for you, we created <s>Dio PLAY:</s></p><p>A new browsing experience for our contents.</p>"
+            },
+            "onboard_2": {
+              "header": "How to access",
+              "content": "<p>Click the <s>”Play”</s> button and browse our Courses, Bootcamps, Accelerations and more!</p>"
+            },
+            "onboard_3": {
+              "header": "Side Menu",
+              "content": "<p>You can continue accessing your programs from the side menu of the home as usual. 😊</p>"
+            }
+          },
+          "PostCard": {
+            "see_more": "See More"
+          },
+          "Ranking": {
+            "week_rank": "RANKING OF THE WEEK",
+            "see_all": "SEE ALL"
+          },
+          "EventCalendar": {
+            "title": "NEXT EVENTS",
+            "dio_events": "DIO Events",
+            "monthsShort": {
+              "1": "JAN",
+              "2": "FEB",
+              "3": "MAR",
+              "4": "APR",
+              "5": "MAY",
+              "6": "JUNE",
+              "7": "JULY",
+              "8": "AUG",
+              "9": "SEPT",
+              "10": "OCT",
+              "11": "NOV",
+              "12": "DEC"
+            },
+            "months": {
+              "1": "January",
+              "2": "February",
+              "3": "March",
+              "4": "April",
+              "5": "May",
+              "6": "June",
+              "7": "July",
+              "8": "August",
+              "9": "September",
+              "10": "October",
+              "11": "November",
+              "12": "December"
+            },
+            "reminderModal": {
+              "disclaime": "Add a reminder to your calendar to be notified!",
+              "title": "Add to your calendar",
+              "add": "Add to calendar",
+              "google": "Google",
+              "outlook": "Outlook",
+              "office365": "Office 365",
+              "applecalendar": "Apple Calendar"
+            },
+            "reminder": "Activate reminder",
+            "openModal": "All",
+            "live": "Live",
+            "today": "Today",
+            "watch": "Watch now",
+            "text-paywall-pro": "DIO PRO is the key for you to have access to the most exclusive events on our platform. Be a member now and don't miss any details!",
+            "text-paywall-global": "With DIO Global, you have the power to take your learning to the next level with unlimited access to our events. Join now and expand your knowledge.",
+            "plans": "Plans",
+            "buy": "Buy"
+          },
+          "SidebarLeft": {
+            "my_programs": "MY PROGRAMS",
+            "my_courses": "MY COURSES",
+            "need_help": "NEED HELP?",
+            "refer_friend": "REFER A FRIEND"
+          },
+          "SidebarRight": {
+            "last_articles": "LAST TOP ARTICLES"
+          }
+        },
+        "modal_notifications": {
+          "headline": "Do you want to be hired?",
+          "description": "Get an alert before everyone else with DIO's releases, news and job opportunities!",
+          "headline_corporate": "Do you want to accelerate your career?",
+          "description_corporate": "Get an alert before everyone else with DIO releases and news!",
+          "not_now": "NOT NOW",
+          "activate": "ACTIVATE"
+        }
+      },
+      "invitations": {
+        "header": {
+          "invite": "Invite a friend and earn BRL 350.00.",
+          "receive": "Receive R$350.00 when the invited friend accepts a job offer."
+        },
+        "invite_friends_email": "Invite your friends by email",
+        "type_friends_email": "Enter your friend's email below for the invitation to be sent:",
+        "alert_danger": "Unable to send invites, please try again later.",
+        "alert_success": "Invitations sent successfully.",
+        "placeholder": "Enter email",
+        "send_invite_email": "SEND INVITATION BY EMAIL",
+        "invite_share_link": "Invite your friends by sharing your link",
+        "link_copied": "LINK COPIED!",
+        "copy": "COPY",
+        "invite_sent": "Invitation Sent",
+        "invites_sent": "Invitations sent",
+        "not_exists_invite": "There is no invitation sent. Why don\u2019t you send it now?\u2019",
+        "register_made": "Registered",
+        "approved": "Approved",
+        "hired_350": "Hired: R$350.00",
+        "terms_policy": "All information submitted is subject to our <bold><alink href='{{link_terms}}'>Terms of Use</alink></bold> and <bold><alink href='{{ link_policy}}'>Privacy Policy</alink></bold>."
+      },
+      "labs": {
+        "lab-tracks": {
+          "title": "Technologies"
+        },
+        "labs-header": {
+          "title": "Labs",
+          "phraseB2B": "Learn key techniques and technologies with innovative projects.",
+          "phraseB2C": "Build your curriculum with innovative market projects for you to learn by practicing with the main techniques and technologies used by large global companies."
+        },
+        "labs-projects": {
+          "count_labprojects_title": "Projects ({{count}})",
+          "load_more": "LOAD MORE"
+        },
+        "project-card": {
+          "level_labproject_1": "Basic",
+          "level_labproject_2": "Intermediate",
+          "level_labproject_3": "Advanced",
+          "start_now": "START NOW"
+        }
+      },
+      "learning": {
+        "lesson_forum": "Class Forum",
+        "click_complete_lesson": "CLICK HERE TO COMPLETE THIS CLASS",
+        "certify_knowledge": "Certify your knowledge",
+        "ask": "ASK",
+        "error_certify": "To certify knowledge it is necessary to have at least 1 heart available.",
+        "back_lesson": "BACK TO CLASS",
+        "close": "Close",
+        "learn_anywhere": "Learn wherever you are.",
+        "download_app": "Download our app.",
+        "quiz": {
+          "lesson_not_completed": "Class not completed!",
+          "lesson_completed": "Class completed! +40 XP",
+          "lost_heart": "You lost 1 heart because you didn't reach at least 70%",
+          "to_complete": "To complete it is necessary to reach at least 70%",
+          "congrat": "Congratulations, you've completed the course and have a new achievement.",
+          "missing": "You only need {{qtd_lesson}} class to complete this course.",
+          "missing_plural": "There are only {{qtd_lesson}} classes left for you to complete this course.",
+          "announce": "Announcements help make the mission of",
+          "DIO": "Digital Innovation One possible",
+          "next_lesson": "NEXT CLASS",
+          "next_question": "NEXT QUESTION",
+          "finish": "FINALIZE",
+          "start": "START",
+          "cancel": "CANCEL",
+          "result": "Result",
+          "intro": {
+            "click": "By clicking on the start button you will start the proficiency and comprehension exam of the class. This exam consists of multiple choice questions, where only one option is correct. The maximum time for solving the exam is 12 minutes , after that time the exam is submitted automatically.",
+            "get_70": "Achieving a minimum of 70% correct questions will complete the class.",
+            "case": "If you don't reach 70% of correct questions you will lose 1 heart.",
+            "hearts": "Hearts represent your number of incorrect attempts available and are retrieved over time.",
+            "good_luck": "Good luck and success on your journey!"
+          }
+        }
+      },
+      "live": {
+        "submit_solution": "SUBMIT SOLUTION",
+        "complete_live": "CLICK HERE TO COMPLETE THIS LIVE",
+        "description": "DESCRIPTION",
+        "attachments": "ATTACHMENTS",
+        "presentation": "PRESENTATION",
+        "specialist": "SPECIALIST",
+        "project_submited": "PROJECT DELIVERED",
+        "live_completed": "LIVE COMPLETED",
+        "certify_knowledgment": "Certify your knowledge",
+        "update_solution": "Solution Update",
+        "submission": "Solution Submited",
+        "project_repository": "Project Repository",
+        "repository": "Repository",
+        "add_link": "Add the full repository link.",
+        "video_link": "Video Link",
+        "add_video_link": "Add the video link.",
+        "add_description": "Add a description of the project you implemented.",
+        "update": "UPDATE",
+        "submit": "SUBMIT",
+        "contents": "CONTENTS",
+        "information": "INFORMATION"
+      },
+      "live-coding": {
+        "title": "Live Coding",
+        "phrase": "You in a live and personalized session with the best professionals in the market to answer your questions, practice and build your project portfolio, in addition to learning the shortcuts to develop your career.",
+        "next_lives": "Next lives",
+        "error": "Oops! There was an error and we are already checking it.",
+        "modal": {
+          "title": "Registration Completed",
+          "congrat": "<h>Congratulations {{name}}!</h><p>You have signed up for <s>{{mentoring}}</s>.</p><p>Instructions to access the session will be sent to the email: <s>{{email]}</s>.</p>",
+          "got_it": "OK, Got it!"
+        },
+        "card": {
+          "type": "Type:",
+          "already_subscribed": "Who is already subscribed?",
+          "when": "When will it be?",
+          "duration": "Duration:",
+          "seats": "Chairs:",
+          "remaining": "remaining",
+          "reserve_now": "BOOK NOW",
+          "enter_live": "ENTER SESSION",
+          "registration": "Registration Completed:",
+          "modal": {
+            "title": "Confirmation",
+            "no_seats": "Unfortunately, all available seats are sold out.",
+            "confirm_phrase": "Do you want to confirm your reservation in the Live Coding session <s>{{name}}</s> on <s>{{date}}</s> at <s>{{hour}}< /s> hs ?",
+            "cancel": "CANCEL",
+            "confirm": "CONFIRM"
+          }
+        }
+      },
+      "new-article": {
+        "back": "BACK",
+        "new_article": "NEW ARTICLE",
+        "title_placeholder": "Title",
+        "technology_placeholder": "Enter the technology",
+        "write_placeholder": "Write the article here",
+        "public_article": "Public article for the entire community",
+        "publish": "PUBLISH"
+      },
+      "new-topic": {
+        "back": "BACK",
+        "new_topic": "NEW TOPIC",
+        "subject": "Subject",
+        "technology": "Enter the technology",
+        "write_topic": "Write topic here",
+        "save": "SAVE",
+        "problems": "Problems and suggestions on the platform ? ",
+        "click_here": "Click here"
+      },
+      "pro": {
+        "data": {
+          "free": "Free",
+          "free_msg": "For those who want access to free, updated, quality content, connect with the world's largest companies and participate in the most vibrant tech community in Latin America.",
+          "pro": "PRO",
+          "pro_msg": "For those who want to evolve with exclusive professional training, unlimited bootcamps, practical projects with great experts in the market and get ahead of the competition to evolve and conquer the best technology vacancies in the country.",
+          "global": "Global",
+          "global_msg": "For those who want to learn English while planning their international career to earn in dollars or euros working remotely for global projects or working outside Brazil in bigtechs, experiencing a new culture.",
+          "plan_items": {
+            "item_1": "Practical Challenges",
+            "item_1_help": "<p>Build innovative projects in practice that will make</p><p>you really evolve and prepare for the market</p>",
+            "item_2": "Certificate of Completion",
+            "item_2_help": "<p>Earn certificates as you progress through each step of your evolution journey.</p><p>Share and prove your technology skills</p>",
+            "item_3": "Access to the best jobs in the tech market",
+            "item_3_help": "<p>Connect with the best and highest paying jobs in technology</p><p>with DIO and the biggest and most innovative companies in the world.</p>",
+            "item_4": "Access to the Forum with the best tech talents",
+            "item_4_help": "<p>Be part of a growing community</p><p>that brings together the best talent in the market.</p>",
+            "item_5": "Unlimited access to selection processes",
+            "item_5_help": "<p>Bootcamps can be your gateway to technology.</p><p>The more you prepare, the greater your chances of being hired.</p><p>Evolve without limits and get ahead of the competition.</p>",
+            "item_6": "Hearts retrieved in 6 minutes - 20x faster",
+            "item_6_help": "<p>Hearts retrieved faster means you don't have to wait</p><p>to continue your learning journey. Take a chance, test, evolve without fear of failure.</p>",
+            "item_7": "Special and unique certificate of completion",
+            "item_7_help": "<p>Show that you take your skills seriously with the certificate</p><p>of special completion and be seen as a reference in the tech market.</p>",
+            "item_8": "Full access to professional training + hypes",
+            "item_8_help": "<p>Have unlimited access to exclusive content with the most requested educational trails</p><p> on the market and master the technologies</p><p> necessary to fill the best vacancies available.</ p>",
+            "item_9": "Access to LABs with 170+ practical projects",
+            "item_9_help": "<p>Recreate amazing projects to improve your skills and do well in job interviews</p><p>proving your experience in the most demanded technologies.</p>",
+            "item_10": "Access to the source code of all DIO projects",
+            "item_10_help": "<p>Get full access to the source code of DIO projects</p><p>and see from end to end how everything is done.</p>",
+            "item_11": "Priority Support",
+            "item_11_help": "<p>You are top priority at all times.</p><p>Whatever you need, it will be taken care of at lightning speed.</p>",
+            "item_12": "Contribution to free and inclusive education",
+            "item_12_help": "<p>In addition to having incredible benefits for your career, being PRO you</p><p>helps to democratize technology education for many other people.</p>",
+            "item_13": "Access to masterclasses with global experts",
+            "item_13_help": "<p>Learn from the best everything you need to win your</p><p>first international spot to receive in dollars or euros.</p>",
+            "item_14": "English4Tech – English course for IT",
+            "item_14_help": "<p>An exclusive DIO GLOBAL English course focused on technology professionals</p><p>that helps you develop and improve the 4 language learning skills you need to break the barriers of</p><p>language and stand out in the market.</p>",
+            "item_15": "JobBoard – curation of international jobs",
+            "item_15_help": "<p>Learn about the best global technology opportunities for you</p><p>to work remotely or live a multicultural experience.</p>",
+            "item_16": "Lifetime access to boosts",
+            "item_16_help": "<p>Have permanent access to all available accelerations in DIO Global.</p>",
+            "item_17": "Access to Rooms exclusive to the Global community",
+            "item_17_help": "<p>Build your international network to leverage your career and</p><p>increase your chances of winning jobs that pay in dollars or euros.</p>"
+          }
+        },
+        "header": {
+          "title": "Accelerate the achievement of your next job with unlimited access to the best and most updated tech content in Latin America",
+          "description_1": "Choose your ideal plan and ",
+          "description_2": "book your place in the next classes:"
+        },
+        "plan": {
+          "quarterly": "Quarterly Subscription",
+          "annual": "Annual Subscription",
+          "plan": "Plan {{type}}",
+          "want_be_pro": "I want to be PRO ",
+          "want_be_global": "I want to be GLOBAL",
+          "current_plan": "Your current plan",
+          "tooltip": {
+            "annual_discount": "{{discount}}% annual plan discount",
+            "old_amount": "from BRL {{old_amount}}",
+            "amount": "for {{installments}}x BRL {{amount}}",
+            "cash": "CASH R$ {{amount}}",
+            "discount": "{{discount}}% off"
+          }
+        },
+        "whatsapp": {
+          "description": "Do you have questions about the plans or need help with your subscription?",
+          "call": "CALL ON WHATSAPP"
+        }
+      },
+      "profile": {
+        "HeaderProfile": {
+          "level": "LEVEL {{level}}",
+          "add_bio": "Add a Biography",
+          "edit": "Edit",
+          "linkedin": "Import resume",
+          "bio": "Tell us a little about yourself.",
+          "follow": "Follow",
+          "following": "Following",
+          "biography": "Biography",
+          "reputation": "Reputation: {{reputation}}",
+          "sync-profile": {
+            "percentage": "Your resume is {{percentage}}% complete",
+            "fill-curriculum": "Fill out your resume now",
+            "completed": "Ready for the best opportunities!",
+            "edit": "Click here to edit/update your CV",
+            "next-steps": {
+              "city": "Click here to fill in the city where you reside",
+              "wage_claim": "Click here to fill in your salary expectation",
+              "hire_type": "Click here to fill in the type of employment",
+              "move_location": "Click here to fill in at least one city where you would like to live",
+              "country": "Click here to fill in at least one country where you would like to live",
+              "phone": "Click here to fill in the phone number",
+              "linkedin": "Click here to fill in your LinkedIn",
+              "github": "Click here to fill in your GitHub",
+              "main_skill": "Click here to select a career and technology you master",
+              "academic_formation": "Click here to fill in your academic background",
+              "professional_experience": "Click here to fill in your professional experience"
+            }
+          }
+        },
+        "MenuTabs": {
+          "achievements": "Achievements",
+          "skills": "Skills",
+          "projects": "Projects",
+          "followers": "Followers",
+          "following": "Following",
+          "settings": "Settings",
+          "articles": "Articles"
+        },
+        "SocialStats": {
+          "reputation": "Reputation",
+          "followers": "Followers",
+          "followings": "Following",
+          "your_profile": "Your {{profile}} is ",
+          "profile_complete": "{{profile_complete}}% complete",
+          "following": "FOLLOWING",
+          "follow": "FOLLOW"
+        },
+        "TabAchievements": {
+          "no_achievements": "Start your journey at DIO and earn your first badges.",
+          "start_journey": "Quero começar minha jornada",
+          "no_achievements_guest": "No badge found."
+        },
+        "TabProjects": {
+          "no_projects": "Start your journey at DIO and write your projects.",
+          "base_project": "Base Project: ",
+          "start_journey": "Quero começar minha jornada",
+          "no_projects_guest": "No projects found."
+        },
+        "TabSkills": {
+          "no_skills": "Start your journey at DIO to gain skills.",
+          "start_journey": "Quero começar minha jornada",
+          "no_skills_guest": "No skills found."
+        },
+        "TabFollowers": {
+          "no_followers": "No followers found."
+        },
+        "TabFollowing": {
+          "no_following": "No following found."
+        },
+        "TabArticles": {
+          "no_articles": "You don't have a published article yet. Start right now!",
+          "want_write": "I want to write an article",
+          "no_articles_guest": "No articles found."
+        },
+        "TabSettings": {
+          "CardSettings": {
+            "username": "Username:",
+            "password": "Password:",
+            "language": "Language",
+            "pt-BR": "Portuguese",
+            "en": "English",
+            "es": "Spanish",
+            "delete_account": "Delete my account"
+          },
+          "UserName": {
+            "success": "Data updated successfully",
+            "error_user": "Existing User",
+            "error_regex": "Your username can only contain letters, numbers and '_'",
+            "username": "Username",
+            "warning": "Your username can only contain letters, numbers and '_'",
+            "back": "Back",
+            "save": "Save"
+          },
+          "Password": {
+            "success": "Data updated successfully",
+            "error_password": "Unable to update your password at this time. Please try again later!",
+            "different_password": "Your new password does not match the confirmation.",
+            "minimum_password": "Your password must be at least 6 characters long.",
+            "password": "Password",
+            "confirm_password": "Confirm password",
+            "back": "Back",
+            "save": "Save"
+          },
+          "Language": {
+            "language": "Language",
+            "portuguese": "Portuguese",
+            "english": "English",
+            "spanish": "Spanish",
+            "back": "Back",
+            "save": "Save"
+          }
+        }
+      },
+      "profile-edit": {
+        "nav": {
+          "information": "Resume Information",
+          "personal_information": "Personal Data",
+          "habilities": "Abilities",
+          "qualification": "Academic Education",
+          "experience": "Experiences"
+        },
+        "information": {
+          "add_curriculum": "Add your CV in PDF",
+          "already_have": "You already have a ",
+          "curriculum_saved": "curriculum saved",
+          "want_update": "want to update?",
+          "update_curriculum": "Update curriculum",
+          "available_job_offer": "Available for job offers?",
+          "what_kind_offer": "What kind of job offer are you willing to consider?",
+          "salary_expecs": "Salary Expected",
+          "english_level": "English Level",
+          "proficiency": {
+            "beginner": "Basic",
+            "intermediate": "Intermediate",
+            "advanced": "Advanced",
+            "fluent": "Fluent"
+          },
+          "professional_goal": "What is your career goal?",
+          "professional_achievements": "What are your main professional achievements?",
+          "remote_job": "Available for remote job offers?",
+          "other_cities": "Available for in-person offers in other cities?",
+          "other_localities": "Which other locations would you be willing to accept in-person offers?",
+          "save_next": "SAVE AND GO TO NEXT",
+          "show_tooltip": "Fill out your resume to be eligible.",
+          "percentage": {
+            "text": "Your resume is",
+            "subText": "filled."
+          },
+          "percentage_completo": "view my profile"
+        },
+        "personal_information": {
+          "photo": "Photo",
+          "choose_img": "Choose the image",
+          "name": "Name",
+          "email": "Email",
+          "phone": "Mobile",
+          "born_date": "Date of Birth",
+          "gender": "Gender",
+          "genders": {
+            "female": "female",
+            "male": "Male",
+            "personalize": "Custom",
+            "preffer_not_inform": "I prefer not to inform"
+          },
+          "living_city": "What city do you live in?",
+          "select_city": "Select city",
+          "type_city_name": "Enter the city name",
+          "living_country": "What country do you live in?",
+          "select_country": "Select country",
+          "type_country_name": "Enter country name",
+          "bio": "Biography",
+          "about_you": "About you",
+          "insert_valid_linkedin": "Insert a valid Linkedin",
+          "insert_valid_github": "Insert a valid Github",
+          "diversity": "Diversity in IT",
+          "what_groups": "What groups do you identify with?",
+          "soon_other_groups": "You will soon be able to declare yourself belonging to other groups.",
+          "what_pcd": "What is your disability?",
+          "medical_report_info": "You will be able to register and complete bootcamps and accelerations, without the CID Code and the Medical Report. However, for the recruitment and hiring process <s>for the exclusive vacancies for PwD</s>, both are mandatory according to the Law of Quotas for PCD 8213/91 - LEI No. 8213, and required by the employing companies. If not attached to your profile, you will not be able to select the exclusive vacancy(s) for PwD.",
+          "cid": "Declare the CID of ",
+          "medical_report": "Medical Report",
+          "report": "Report",
+          "add_medical_report": "Add Medical Report",
+          "download_report": "Download Previous Report",
+          "save_next": "SAVE AND GO TO NEXT",
+          "save_back": "SAVE",
+          "save": "Save",
+          "email_info": "When you change your email, a new verification link will be sent."
+        },
+        "habilities": {
+          "what_kind_job": "Which career do you want to pursue?",
+          "choose_one": "(Choose 1 option only)",
+          "job_types": {
+            "backend": "Backend",
+            "frontend": "Front End",
+            "fullstack": "Full-Stack",
+            "mobile": "Mobile"
+          },
+          "experience_time_job": "How much <b>career time</b> do you have as a Developer?",
+          "dev_type": "Developer<line/>{{type}}",
+          "select_two_skills": "Select the two skills you've mastered the most!",
+          "remember": "Remember:",
+          "they_can": "they can be used as information for possible knowledge tests",
+          "other_skills": "What other skills do you have?",
+          "experience_time_skills": "How much <b>time work experience</b> do you have in each skill?",
+          "what_more": "What else do you know?",
+          "save_next": "SAVE AND GO TO NEXT"
+        },
+        "qualification": {
+          "academic_formation": "Academic Formation",
+          "delete": "DELETE",
+          "institution": "Educational Institution",
+          "select_institution": "Select the Institution",
+          "type_institution_name": "Enter the name of the institution",
+          "formation": "Formation",
+          "course": "Course",
+          "start": "Start",
+          "end": "Completion/Forecast",
+          "add_formation": "ADD FORMATION",
+          "save_next": "SAVE AND GO TO NEXT"
+        },
+        "experience": {
+          "professional_experience": "Professional Experience",
+          "add_professional_exp": "ADD COMPANY",
+          "save": "SAVE",
+          "delete": "DELETE",
+          "company": "Company",
+          "role": "Position",
+          "description": "Description",
+          "start": "Start date",
+          "exit": "Exit date",
+          "date_error": "Start date greater than exit date or current date!",
+          "actual_job": "This is my current job"
+        }
+      },
+      "sync-profile": {
+        "step_1": {
+          "title": "Get ready for your next career opportunity.",
+          "description": "Digital Innovation One accelerates your career in software development for free, connecting you with the best professional opportunities in the most innovative companies in the global market. Here's what you should do so you don't miss out:",
+          "desc_txt_1": "Fill in all the fields below. This step is important so that companies can match you!",
+          "desc_txt_2": "Find a Bootcamp or Acceleration that makes sense for your career, register and participate in all activities!",
+          "desc_txt_3": "To make this process faster, you can upload your CV's PDF to Linkedin, so that most of the fields are filled in automatically.",
+          "drop_files": "DROP FILES HERE, PASTE OR SEARCH.",
+          "fill": "FILL OUT MANUALLY"
+        },
+        "step_2": {
+          "title": "First, we need to know some basic information. Come on?",
+          "desc_linkedin": "What is your LinkedIn profile?",
+          "placeholder_linkedin": "Paste your linkedin profile link here (ex: https://linkedin.com/in/---)",
+          "alert_linkedin": "Oops! Missing a valid linkedin url.",
+          "desc_city": "Which city do you live?",
+          "placeholder_city": "select a city",
+          "alert_city": "Oops! You forgot to fill in this field.",
+          "desc_phone": "What phone number can we use to contact you for opportunities?",
+          "placeholder_phone": "Cell",
+          "alert_phone": "Oops! You forgot to fill in this field.",
+          "desc_salary": "What is your salary expectation?",
+          "alert_salary": "Oops! You forgot to fill in this field.",
+          "desc_skills": "What three skills do you master the most that align with your career goal?",
+          "alert_skills": "Oops! You forgot to fill in this field.",
+          "back": "RETURN",
+          "save": "SAVE TO ADVANCE"
+        },
+        "step_3": {
+          "title": "Now we have a few more important questions.",
+          "desc_experience": "How much professional experience in software development do you have?",
+          "desc_carrer": "What is your career goal?",
+          "placeholder_carrer": "This information will be highlighted for companies that view your profile. You can talk about the steps you have taken and intend to take in your career, your professional goals and focus of interest.",
+          "desc_lang": "What languages do you speak?",
+          "other_lang": "Another language",
+          "placeholder_lang": "Enter language here",
+          "desc_level_lang": "What is your level in each language?",
+          "desc_presencial": "Available for in-person offers in other cities?",
+          "desc_remote": "Available for remote work offers?",
+          "desc_other_city": "In what other locations would you be willing to accept face-to-face offers?",
+          "placeholder_city": "Enter city here",
+          "back": "RETURN",
+          "save": "SAVE TO ADVANCE"
+        },
+        "step_4": {
+          "title": "Let's talk about your Professional Experiences?",
+          "detail_1": "Remember: it doesn't have to be just signed-in experiences.",
+          "detail_2": "Informal work, in social projects, NGOs, etc. count too!",
+          "detail_3": "I don't have professional experience yet.",
+          "delete": "DELETE",
+          "clean": "CLEAN",
+          "desc_company": "Company",
+          "placeholder_company": "Select a company",
+          "desc_role": "Office",
+          "desc": "Description",
+          "placeholder_role": "How about talking briefly about your role?",
+          "start": "Start",
+          "end": "Exit",
+          "placeholder_month": "Select a month",
+          "placeholder_year": "Year",
+          "actual_job": "It's my current job",
+          "add_exp": "+ ADD EXPERIENCE",
+          "back": "RETURN",
+          "save": "SAVE TO ADVANCE"
+        },
+        "step_5": {
+          "title": "Let's talk about your Academic Formation?",
+          "detail": "I don't have any academic training yet.",
+          "delete": "DELETE",
+          "clean": "CLEAN",
+          "desc_institution": "Institution",
+          "placeholder_institution": "Your Select institution",
+          "desc_degree": "Formation",
+          "placeholder_degree": "Your formation",
+          "desc_course": "Course",
+          "placeholder_course": "Your course name is...",
+          "start": "Start",
+          "end": "Exit",
+          "placeholder_month": "Select a month",
+          "placeholder_year": "Year",
+          "add_exp": "+ ADD EXPERIENCE",
+          "back": "RETURN",
+          "save": "SAVE TO ADVANCE"
+        },
+        "step_6": {
+          "title": "Congratulations!",
+          "message": "You have just improved your \"DIO Profile Strength\" and are available for new career opportunities! Your profile will begin to appear for the most innovative tech companies in the world.",
+          "back_home": "BACK TO HOME"
+        }
+      },
+      "ranking": {
+        "title": "Ranking",
+        "phrase": "Meet who the highlights of this week are and they are accelerating your career in technology. The weekly ranking is valid from Monday to Sunday, and the top 10 free users will receive 14 days of DIO PRO (non-cumulative).",
+        "actual_ranking": "CURRENT RANKING",
+        "last_winners": "LAST WINNERS",
+        "name": "Name",
+        "experience": "Experience",
+        "last_achievements": "Last Achievements"
+      },
+      "topics": {
+        "help_author": "Help ",
+        "first_comment": ", be the first to comment.",
+        "response": "Response *",
+        "title": "Title *",
+        "description": "Description *",
+        "cant_vote": "Unfortunately you can't vote!",
+        "vote_minimum": "Must be at least ",
+        "vote_level": "level {{level}}",
+        "vote_possible": "to be able to vote.",
+        "comments": "Comments ({{count}})",
+        "title_topic": "Topic Title",
+        "follow_topic": "Follow this topic.",
+        "send_response": "SEND RESPONSE",
+        "save_response": "SAVE RESPONSE",
+        "topic_notification": "Topic Notification",
+        "skills_envolved": "Skills involved (max. 3)",
+        "type_skills": "Enter technology",
+        "mark_best_answer": "Mark as best answer.",
+        "best_answer": "Chosen as the best answer by the author.",
+        "want_delete_comment": "Do you really want to delete the comment?",
+        "want_delete_topic": "Do you really want to delete the topic?",
+        "edit_comment": "Edit Comment",
+        "edit_topic": "Edit Topic",
+        "error_message": "There was an error, please try again later.",
+        "useful_question": "This question is useful.",
+        "useless_question": "This question is not useful.",
+        "useful_response": "This response is helpful.",
+        "useless_response": "This response is not useful.",
+        "this_comment_useful": "This answer is helpful.",
+        "this_topic_useful": "This topic is useful.",
+        "this_comment_useless": "This answer is not helpful.",
+        "this_topic_useless": "This topic is not useful.",
+        "following": "FOLLOWING THE PUBLICATION",
+        "follow": "FOLLOW THE POST",
+        "previous": "previous",
+        "next": "next",
+        "cancel": "CANCEL",
+        "close": "CLOSE",
+        "delete": "DELETE",
+        "edit": "EDIT",
+        "answer": "ANSWER",
+        "save": "SAVE",
+        "oldest": "Oldest",
+        "newest": "Newest",
+        "most_usual": "Most Voted"
+      },
+      "track": {
+        "header": {
+          "title": "Bootcamp",
+          "codecamp": "Codecamp",
+          "level_track_1": "Basic",
+          "level_track_2": "Intermediate",
+          "level_track_3": "Advanced",
+          "devs_subscribed": "{{count}} people already enrolled",
+          "show_more": "Show more",
+          "show_less": "Show less",
+          "congrat": "Congratulations, you've completed this Bootcamp and are now more prepared to achieve your goals!",
+          "congrat_acceleration": "Congratulations, you have completed this acceleration and are now better prepared to achieve your goals!",
+          "congrat_codecamp": "Congratulations, you've completed this Codecamp and are now more prepared to achieve your goals!",
+          "cancel_enrollment": "Cancel enrollment",
+          "next_lives": "# Upcoming Schedules",
+          "finish_track": "Finish all content up to date <s>{{track_finished}}</s> and certify your knowledge.",
+          "continue_enrollment": "Continue enrollment",
+          "continue_enrollment_confirm": "Continue enrollment, confirming your details.",
+          "continue_where_stopped": "Continue where you left off",
+          "enroll_now": "Enroll Now",
+          "enroll_expired": "Enrollment date expired on {{date}}",
+          "enroll_until": "Enroll by {{date}}",
+          "show-description": "Read more",
+          "modal": {
+            "cancel-enrollment": {
+              "title": "Oops!",
+              "sub-title": "<strong>{{profile_name}}</strong>, do you really want to cancel your enrollment and lose your progress so far?",
+              "cta-confirm": "Cancel Enrollment",
+              "cta-cancel": "I don't want to cancel"
+            },
+            "enrollment": {
+              "title": "You're almost there!",
+              "content": "To start this online training and earn the certificate, you need to register and complete all activities until the day ",
+              "confirm": "Do Enrollment"
+            },
+            "free-enrollment": {
+              "title": "You're almost there!",
+              "content_1": "Hey Dev! Just one thing: to register for bootcamp ",
+              "content_2": ", you must unsubscribe from the bootcamps below as you are already using a sponsored scholarship. This way, you can dive right into this amazing journey and keep the sponsored scholarships available to the entire community!",
+              "know_more": "Learn more!",
+              "be_pro": "Become PRO",
+              "ilimit_enroll": " to have unlimited enrollments in bootcamps!",
+              "cancel": "Cancel enrollment and embark on the journey!"
+            },
+            "not-accept-enrollment": {
+              "title": "Oops!",
+              "content_1": "Unfortunately, the enrollment period for ",
+              "content_2": " it's over. But don't worry, at DIO there are several other free bootcamps and courses for you to train and evolve. Don't give up and focus!"
+            },
+            "premium-enrollment": {
+              "content": "Want to get the best jobs on the market faster? Subscribe to PRO and have unlimited access to the best technology training.",
+              "see_plans": "See plans",
+              "start_now": "Start now"
+            },
+            "tier-certificate": {
+              "title": "You're almost there!",
+              "content_1": "To generate the bootcamp certificate ",
+              "content_2": " it is necessary to have the {{profile_label}} fully populated.",
+              "fill_profile": "FILL MY {{profile_label}}"
+            }
+          },
+          "next-step": "Keep learning"
+        },
+        "tabs": {
+          "path": "ACTIVITIES",
+          "mentoring": "MENTORING",
+          "forum": "FORUM",
+          "ranking": "RANKING",
+          "devs": "PEOPLE",
+          "certificate": "CERTIFICATE",
+          "about": "ABOUT"
+        },
+        "track_tab": {
+          "certificate": {
+            "completed": {
+              "congrat": "Congratulations {{profile_name}}!",
+              "we_are_proud_1": "We are proud to certify you in another stage of your learning process, download your certificate and share what you have learned.",
+              "we_are_proud_2": "We are proud to certify you in another stage of your learning process, we are generating your certificate. Come back here in a few moments.",
+              "download_certificate": "DOWNLOAD CERTIFICATE",
+              "share_certificate": "SHARE ON LINKEDIN"
+            },
+            "not-completed": {
+              "hour": "hour",
+              "hour_plural": "hours",
+              "hello": "Hello {{profile_name}}!",
+              "we_are_proud_1": "We are proud that you are focused on this new challenge of your career. ",
+              "we_are_proud_2": " to complete the bootcamp, come back here when you're done with your journey.",
+              "important": "Important! ",
+              "to_generate": "To generate the bootcamp certificate it is mandatory to have the curriculum fully filled out.",
+              "fill": "Fill {{profile_label}}"
+            }
+          },
+          "devs": {
+            "total_devs": "Total people enrolled {{count}}",
+            "follow": "FOLLOW",
+            "following": "FOLLOWING"
+          },
+          "mentoring": {
+            "enter_live": "Enter live",
+            "watch_record": "Watch the recording"
+          },
+          "path": {
+            "course_label": "Course",
+            "challenge_label": "Code Challenge",
+            "creative_challenge_label": "Creative Challenge",
+            "project_label": "Lab Project",
+            "level_1": "Basic",
+            "level_2": "Intermediate",
+            "level_3": "Advanced",
+            "mentoring": "Mentoring",
+            "masterclass": "Masterclass",
+            "lesson": "Lesson",
+            "course": "{{count}} course",
+            "course_plural": "{{count}} courses",
+            "labproject": "{{count}} project challenge",
+            "labproject_plural": "{{count}} project challenges",
+            "codechallenge": "{{count}} code challenge",
+            "codechallenge_plural": "{{count}} code challenges",
+            "creative_challenge" : "{{count}} creative challenge",
+            "creative_challenge_plural" : "{{count}} creative challenges",
+            "live": "{{count}} live",
+            "live_plural": "{{count}} lives",
+            "activitie": "{{count}} activity",
+            "activitie_plural": "{{count}} activities",
+            "download_certificate": "Download Certificate",
+            "continue": "Continue",
+            "start": "Start now"
+          },
+          "track-community": {
+            "nextlives_lbl": "Next Mentoring",
+            "hot_topics_lbl": "Hot Topics",
+            "rooms": {
+              "label": "Click and chat with people",
+              "title": "Rooms"
+            },
+            "hot_topics": {
+              "see_all": "See all"
+            }
+          },
+          "about": {
+            "codecamp": {
+              "title": "Codecamp details",
+              "activities": {
+                "title": "Atividades",
+                "mentoring": {
+                  "title": "Inaugural Class",
+                  "text": "Moment for you to know what your journey will be like and ask questions about the program, get tips and network with other participants."
+                },
+                "codechallenge": {
+                  "title": "Code Challenge",
+                  "text": "Put into practice all the knowledge acquired in class and test your knowledge by solving a challenge."
+                },
+                "ranking": {
+                  "title": "Ranking",
+                  "text": "Each codecamp has a ranking with exclusive awards, where you score according to the interactions you carry out in Forums and Rooms, the successes you have in questionnaires and the quality of the code you developed in the challenges."
+                }
+              },
+              "tools": {
+                "title": "Tools for your learning",
+                "forum": {
+                  "title": "Forum",
+                  "text": "A space for you to interact and ask your technical questions with our community."
+                },
+                "rooms": {
+                  "title": "Rooms",
+                  "text": "Space for you to chat with other enrolled in the codecamp and increase your networking."
+                },
+                "enroll": {
+                  "title": "Enrolled",
+                  "text": "Know who is participating in the same educational journey as you."
+                },
+                "certificate": {
+                  "title": "Certificate",
+                  "text": "Download and share the certificates of all your achievements throughout this codecamp."
+                }
+              }
+            },
+            "deegre": {
+              "title": "Formation details",
+              "activities": {
+                "title": "Activities",
+                "codechallenge": {
+                  "title": "Code Challenge",
+                  "text": "Put into practice all the knowledge acquired in the classes and test your knowledge in solving a challenge."
+                },
+                "project": {
+                  "title": "Project Challenge",
+                  "text": "Build your portfolio by building practical projects with the knowledge acquired throughout the classes."
+                }
+              },
+              "tools": {
+                "title": "Tools for your learning",
+                "forum": {
+                  "title": "Forum",
+                  "text": "A space for you to interact and ask your technical questions with our community."
+                },
+                "rooms": {
+                  "title": "Rooms",
+                  "text": "Space for you to chat with other enrolled in the bootcamp and increase your networking."
+                },
+                "enroll": {
+                  "title": "Enrolled",
+                  "text": "Download and share the certificates of all your achievements throughout this training."
+                },
+                "certificate": {
+                  "title": "Certificate",
+                  "text": "Download and share the certificates of all your achievements throughout this bootcamp."
+                }
+              },
+              "help": {
+                "title": "Need help?",
+                "sub-title": "Support",
+                "text": "If you have any questions, want to report an error in the platform or even a suggestion, you can access our help center and also request help from our support by clicking on the link below:",
+                "link-alias": "Help center"
+              }
+            },
+            "bootcamp": {
+              "title": "Bootcamp details",
+              "activities": {
+                "title": "Activities",
+                "lives": {
+                  "title": "Mentoring (Live)",
+                  "text": "Mentoring sessions offer live meetings with specialists where you can deepen your understanding of bootcamp topics, ask questions and discuss practical applications. These are moments to exchange experiences, receive direct guidance and accelerate your evolution with professionals already working in the market."
+                },
+                "code": {
+                  "title": "Code Challenge",
+                  "text": "Practical programming challenges for you to apply what you learned in the courses, solving real problems and developing your logical reasoning and technical skills."
+                },
+                "project": {
+                  "title": "Project Challenge",
+                  "text": "Complete projects where you bring together everything you've learned from different content to solve a real problem, creating a final deliverable that can be part of your portfolio."
+                },
+                "creative-challenge": {
+                  "title": "Creative Challenge",
+                  "text": "Practical activity with clear instructions and a final deliverable, where you apply generative AI to create something that reproduces the real-world challenges of a creator's daily routine. It's a moment to get hands-on, experiment, produce and evolve through practice."
+                },
+                "courses": {
+                  "title": "Courses",
+                  "text": "Short, objective video lessons that present one piece of content at a time, making learning easier at your own pace. Each course brings practical explanations and an assessment at the end to confirm what you've learned."
+                }
+              },
+              "tools": {
+                "title": "Tools for your learning",
+                "forum": {
+                  "title": "Forum",
+                  "text": "The Forum is the space to ask questions, exchange experiences and learn from others. It's where you can ask for help, answer questions and build knowledge collaboratively throughout your journey."
+                },
+                "rooms": {
+                  "title": "Rooms",
+                  "text": "Real-time interaction spaces where students can exchange knowledge, collaborate on bootcamp activities and chat with other community participants."
+                },
+                "enroll": {
+                  "title": "People",
+                  "text": "See who is following the same journey as you, follow other participants and strengthen your network by connecting with bootcamp colleagues."
+                },
+                "certificate": {
+                  "title": "Certificate",
+                  "text": "Upon completing all bootcamp activities, you receive an official completion certificate. Additionally, as you develop new skills in the courses, you also earn specific certificates that prove your evolution throughout the journey."
+                },
+                "ranking": {
+                  "title": "Ranking",
+                  "text": "The Ranking evaluates your bootcamp performance by summing Quality Submissions (QS) points, such as challenges and quizzes, and Quality Interactions (QI) in the forum. It reflects your real participation in the journey, valuing quality over speed."
+                },
+                "study-plan": {
+                  "title": "Study goal",
+                  "text": "Allows you to plan your study routine by setting how many days per week you want to advance in the bootcamp. From this, the platform calculates the estimated time to complete all activities and earn the certificate."
+                }
+              }
+            },
+
+            "help": {
+              "title": "Need help?",
+              "sub-title": "Support",
+              "text": "If you have any questions, want to report an error in the platform or even a suggestion, you can access our help center and also request help from our support by clicking on the link below:",
+              "link-alias": "Help center"
+            }
+          }
+        }
+      },
+      "track-confirmation": {
+        "enroll_bootcamp": "To enroll in Bootcamp, confirm the details below.",
+        "enroll_acceleration": "To enroll in Acceleration, confirm the details below.",
+        "AcademicFormationCard": {
+          "institution": "Educational Institution",
+          "type_institution": "Enter the name of the institution",
+          "formation": "Formation",
+          "course": "Course",
+          "begin": "Start",
+          "end": "Completion/Forecast"
+        },
+        "StepFirst": {
+          "header": "{{name}}, select 5 technologies you want to follow.",
+          "detail": "Based on these 5 technologies, we will recommend more courses and content for you!",
+          "no_technology": "I DON'T KNOW WHICH TECHNOLOGIES I SHOULD FOLLOW",
+          "back": "BACK",
+          "next": "FORWARD"
+        },
+        "StepSecond": {
+          "header": "Select your top 2 skills, the ones you master the most.",
+          "detail": "These selected skills will be saved in your {{profile}}!",
+          "no_skill": "I DO NOT MASTER ANY SKILLS",
+          "back": "BACK",
+          "next": "FORWARD"
+        },
+        "StepThird": {
+          "header": "How much experience do you have in software development?",
+          "detail": "This information will be saved in your {{profile}}!",
+          "offer": "What kind of job offer are you willing to consider?",
+          "back": "BACK",
+          "next": "FORWARD"
+        },
+        "StepFourth": {
+          "alert": "Please fill all fields completely!",
+          "header": "Contact Data",
+          "detail": "This information will be saved in your {{profile}}!",
+          "acceleration": {
+            "available_other_city": "Available for in-person offers in other cities?",
+            "other_city_label": "In which other locations would you be willing to accept in-person offers?"
+          },
+          "bootcamp": {
+            "college_label": "Am I attending college?"
+          },
+          "profile": {
+            "name": "Name",
+            "email": "Email",
+            "phone": "Mobile",
+            "salary": "Salary Expectation",
+            "city": "What city do you live in?",
+            "select_city": "Select city",
+            "type_city": "Enter the city name",
+            "gender": {
+              "gender": "Gender",
+              "female": "female",
+              "male": "Male",
+              "custom": "Custom",
+              "not_inform": "I prefer not to inform"
+            },
+            "valid_linkedin": "Please enter a valid Linkedin",
+            "valid_github": "Please enter a valid Github",
+            "diversity_header": "IT Diversity",
+            "diversity_label": "What groups do you identify with?",
+            "diversity_other": "You will soon be able to declare yourself belonging to other groups.",
+            "pcd_label": "What is your disability?"
+          },
+          "back": "BACK",
+          "next": "FORWARD"
+        },
+        "StepFifth": {
+          "TrackWithTest": {
+            "challenge": "Challenge",
+            "back": "BACK",
+            "exp_dev": "To register, you must have at least experience in software development in:",
+            "error_fill": "If you filled in this information wrong, go back and change it to complete the challenge.",
+            "good_luck": "Good luck and success on your journey!",
+            "minutes": "{{minutes}} minutes",
+            "hours": "{{hours}} hour(s) and {{minutes}}",
+            "click_confirm": "By clicking on the button \"CONFIRM DATA AND PERFORM CHALLENGE\" you will start the ranking challenge. This challenge consists of {{questions}} multiple choice questions, where only one option is correct. for resolution of the challenge is <s>{{time}}</s>, after that time the challenge is submitted automatically.",
+            "click_confirm_challenges": "By clicking on the button \"CONFIRM DATA AND PERFORM CHALLENGE\" you will start the qualifying challenge. This challenge consists of {{questions}} multiple choice questions, where only one option is correct, and {{ challenges}} code challenges. The maximum time for solving the challenge is <s>{{time}}</s>, after that time the challenge is submitted automatically.",
+            "finish_date": "You will be able to complete this challenge <s>only once</s>, so prepare to have this time available to complete the challenge, you can complete the challenge until the day <s>{{finish}} </s>.",
+            "confirm_data": "CONFIRM DATA AND PERFORM CHALLENGE",
+            "do_later": "I WANT TO DO THE CHALLENGE LATER",
+            "modal": {
+              "title": "Challenge Start Confirmation",
+              "finish_date": "The maximum time for solving the challenge is <s>{{time}}</s>, after that time the challenge is submitted automatically, so prepare to have this time available to complete the challenge, you you can complete the challenge until <s>{{finish}}</s>.",
+              "classify": "To be ranked, you need to reach the minimum of <s>{{approve}} points</s> by solving a multiple choice quiz with <s>{{questions}} questions</s>. ",
+              "classify_challenges": "To be ranked, you need to reach the minimum of <s>{{approve}} points</s> by solving a multiple choice quiz with <s>{{questions}} questions</s> and <s>{{challenges}} code challenges</s>.",
+              "alert": "Remember: you will be able to complete this challenge <s>only once</s> so prepare to have this time available when you start the challenge. You can complete the challenge until the day < s>{{finish}}</s>.",
+              "click_confirm": "After clicking the \"START CHALLENGE NOW\" button, the time will start automatically and you will not be able to stop until you finish the whole challenge.",
+              "do_later": "COMPLETE THE CHALLENGE LATER",
+              "start_now": "START THE CHALLENGE NOW"
+            },
+            "congratulations": "Congratulations!",
+            "click_start_track": "<s>{{username}}</s>, your enrollment in <s>{{acceleration}}</s> was successful! Start accelerating your career now by clicking below:",
+            "are_you_ready": "Are you ready for this exciting journey? Click the button below and start now!",
+            "confirm_data_global": "Start Acceleration"
+          },
+          "Bootcamp": {
+            "welcome": "Congratulations {{name}}, your enrollment was successful!",
+            "info": "Before proceeding, be aware:",
+            "calender_1": "You have until the day ",
+            "calender_2": " to end {{TRACK_TYPE}} ",
+            "trophy": "Do your first {{enrollment_name}} activity, share the achievement on your social media and take the next step to accelerate your career",
+            "lamp": "Create articles to share knowledge, tutorials and various topics that help the entire community evolve.",
+            "greetings": "Good studies and success on the journey!",
+            "back": "BACK",
+            "start": "START BOOTCAMP NOW",
+            "start_codecamp": "START CODECAMP NOW"
+          }
+        }
+      },
+      "tracks": {
+        "title": "Bootcamps",
+        "phraseB2B": "Learn immersively with hands-on classes and projects to accelerate your career.",
+        "phraseB2C": "Learn in an immersive way with classes and practical projects that prepare you for the job market."
+      }
+    }
+  },
+  "months": {
+    "m1": "January",
+    "m2": "February",
+    "m3": "March",
+    "m4": "April",
+    "m5": "May",
+    "m6": "June",
+    "m7": "July",
+    "m8": "August",
+    "m9": "September",
+    "m10": "October",
+    "m11": "November",
+    "m12": "December"
+  },
+  "quick-start": {
+    "title": "Quick start",
+    "tooltip": "To open Quick Launch again, click your profile icon and select Open quick start."
+  },
+  "coupon-countdown": {
+    "button": "Subscribe with {{discount}} discount",
+    "button-simple": "Inscribirse"
+  },
+  "how-to-pro": "What is Dio Pro",
+  "how-to-global": "What is Dio Global",
+  "formation-fy": "Recommended for you",
+  "select_programs": "SELECT A PROGRAM",
+  "select_career": "SELECT A CAREER",
+  "select_course": "SELECT A COURSE",
+  "stats": {
+    "articles": "articles",
+    "projects": "Projects",
+    "skills": "Skills",
+    "achievement": "Achievement",
+    "following": "Following",
+    "followers": "Followers"
+  },
+  "english-card": {
+    "my-english": "MY ENGLISH",
+    "level": "What is the English level?",
+    "tooltip": "The English level goes from A1 to B2, following the European pattern CEFR. Professionals who are at level B2 are considered qualified to work in international vacancies that pay in dollars or euro.",
+    "continue": "CONTINUE ENGLISH COURSE",
+    "start": "START ENGLISH COURSE"
+  },
+  "career": {
+    "title": "SELECTED CAREER",
+    "info": "Why should I select my career?",
+    "tooltip": "Choosing your career is important to determine the contents we will recommend and for recruiters to find you and hire more easily"
+  },
+  "track-next-certificate": {
+    "title": "Your latest certificate",
+    "next": "You are close to earning your next certificate",
+    "percentage": "{{percentage}}% Achieved",
+    "hour": "{{hour}} remaining"
+  }
+}
+�1JGk�      jjI�v=j   S    O^partitionKey=%28https%2Cdio.me%29,:https://web.dio.me/locales/en/translation.json strongly-framed 1 security-info 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 request-method GET response-head HTTP/3 200 
+x-guploader-uploadid: AAVLpEhCZogb59DYqT_O0d6HamlvJ3xkIKGYSSw4qpJJIMjlVOMOxKJgPf_-uh0LrjO0zinBy0ZNzjI
+x-goog-generation: 1778068668624721
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 95386
+x-goog-meta-goog-reserved-file-mtime: 1778068390
+x-goog-hash: crc32c=TlnBrQ==, md5=vJJLH9XxhJl4yV0jodcwdw==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 95386
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:09:22 GMT
+age: 2300
+last-modified: Wed, 06 May 2026 11:57:48 GMT
+etag: "bc924b1fd5f1849978c95d23a1d73077"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+X-Firefox-Http3: h3
+ original-response-headers x-guploader-uploadid: AAVLpEhCZogb59DYqT_O0d6HamlvJ3xkIKGYSSw4qpJJIMjlVOMOxKJgPf_-uh0LrjO0zinBy0ZNzjI
+x-goog-generation: 1778068668624721
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 95386
+x-goog-meta-goog-reserved-file-mtime: 1778068390
+x-goog-hash: crc32c=TlnBrQ==
+x-goog-hash: md5=vJJLH9XxhJl4yV0jodcwdw==
+x-goog-storage-class: STANDARD
+accept-ranges: bytes
+content-length: 95386
+server: UploadServer
+via: 1.1 google
+date: Tue, 26 May 2026 21:09:22 GMT
+age: 2300
+last-modified: Wed, 06 May 2026 11:57:48 GMT
+etag: "bc924b1fd5f1849978c95d23a1d73077"
+content-type: application/json
+cache-control: public,max-age=3600
+alt-svc: h3=":443"; ma=2592000
+ ctid 1 net-response-time-onstart 28 net-response-time-onstop 30  t�

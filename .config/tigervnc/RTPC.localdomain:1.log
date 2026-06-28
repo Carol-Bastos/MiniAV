@@ -1,0 +1,834 @@
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Mon Apr 20 20:44:42 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x63db746a1080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x63db746a1080 for event 3
+** Message: 20:44:43.087: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 20:44:43.087: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 20:44:43.087: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 20:44:43.087: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: ERROR: euid != 0,directory /tmp/.ICE-unix will not be created.
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent[17879]: directory '/home/cakali/.gnupg' created
+gpg-agent[17879]: directory '/home/cakali/.gnupg/private-keys-v1.d' created
+gpg-agent[17880]: gpg-agent (GnuPG) 2.4.9 started
+** Message: 20:44:44.878: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:17881): xfwm4-WARNING **: 20:44:46.091: Another compositing manager is running on screen 0
+
+Mon Apr 20 20:44:46 2026
+ Connections: Accepted: [::1]::58668
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 200 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:inf ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+** Message: 20:44:47.721: Unable to migrate old setting /backdrop/screen0/monitor2/image-show; monitor 2 is not currently attached
+** Message: 20:44:47.728: Unable to migrate old setting /backdrop/screen0/monitor4/image-path; monitor 4 is not currently attached
+** Message: 20:44:47.736: Unable to migrate old setting /backdrop/screen0/monitor3/image-show; monitor 3 is not currently attached
+** Message: 20:44:47.741: Unable to migrate old setting /backdrop/screen0/monitor1/last-single-image; monitor 1 is not currently attached
+** Message: 20:44:47.750: Unable to migrate /backdrop/screen0/monitor0/color2 to RGBA as it contains invalid data
+** Message: 20:44:47.753: Unable to migrate old setting /backdrop/screen0/monitor1/color2; monitor 1 is not currently attached
+** Message: 20:44:47.754: Unable to migrate old setting /backdrop/screen0/monitor1/brightness; monitor 1 is not currently attached
+** Message: 20:44:47.755: Unable to migrate old setting /backdrop/screen0/monitor4/image-style; monitor 4 is not currently attached
+** Message: 20:44:47.756: Unable to migrate old setting /backdrop/screen0/monitor3/image-style; monitor 3 is not currently attached
+** Message: 20:44:47.757: Unable to migrate old setting /backdrop/screen0/monitor4/image-show; monitor 4 is not currently attached
+** Message: 20:44:47.758: Unable to migrate old setting /backdrop/screen0/monitor2/image-style; monitor 2 is not currently attached
+** Message: 20:44:47.767: Unable to migrate /backdrop/screen0/monitor0/color1 to RGBA as it contains invalid data
+** Message: 20:44:47.772: Unable to migrate old setting /backdrop/screen0/monitor1/last-image; monitor 1 is not currently attached
+** Message: 20:44:47.780: Unable to migrate old setting /backdrop/screen0/monitor1/image-path; monitor 1 is not currently attached
+** Message: 20:44:47.788: Unable to migrate old setting /backdrop/screen0/monitor2/image-path; monitor 2 is not currently attached
+** Message: 20:44:47.789: Unable to migrate old setting /backdrop/screen0/monitor1/image-style; monitor 1 is not currently attached
+** Message: 20:44:47.793: Unable to migrate old setting /backdrop/screen0/monitor3/image-path; monitor 3 is not currently attached
+** Message: 20:44:47.809: Unable to migrate old setting /backdrop/screen0/monitor1/color1; monitor 1 is not currently attached
+** Message: 20:44:47.818: Unable to migrate old setting /backdrop/screen0/monitor1/color-style; monitor 1 is not currently attached
+** Message: 20:44:47.819: Unable to migrate old setting /backdrop/screen0/monitor1/image-show; monitor 1 is not currently attached
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:18354): xfce4-power-manager-WARNING **: 20:44:48.045: Display is not DPMS capable
+Failure: Module initialization failed
+pipewire server is not running, exiting
+
+(polkit-mate-authentication-agent-1:18387): polkit-mate-1-WARNING **: 20:44:48.182: Unable to determine the session we are in: No session for pid 18387
+
+(wrapper-2.0:18252): xfce4-power-manager-plugin-WARNING **: 20:44:48.442: Xfce4-power-manager: The panel plugin is present, so the tray icon gets disabled.
+
+** (xiccd:18410): CRITICAL **: 20:44:48.555: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+(xfce4-power-manager:18354): xfce4-power-manager-WARNING **: 20:44:49.050: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+blueman-applet 20.44.49 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 20.44.49 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 20.44.49 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 20.44.49 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 20.44.50 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Another notification daemon is running, exiting
+The X session cleanly exited!
+Killing Xtigervnc process ID 17823...
+Mon Apr 20 20:46:14 2026
+ VNCSConnST:  Closing [::1]::58668: Server shutdown
+ EncodeManager: Framebuffer updates: 1527
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 379 rects, 7.32378 Mpixels
+ EncodeManager:            5.92188 KiB (1:4831.74 ratio)
+ EncodeManager:     Bitmap RLE: 190 rects, 87.949 kpixels
+ EncodeManager:                 5.5918 KiB (1:61.8365 ratio)
+ EncodeManager:     Indexed RLE: 2.616 krects, 2.53562 Mpixels
+ EncodeManager:                  474.581 KiB (1:20.9352 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 1.325 krects, 15.4157 Mpixels
+ EncodeManager:                  6.98265 MiB (1:8.42394 ratio)
+ EncodeManager:   Total: 4.51 krects, 25.3631 Mpixels
+ EncodeManager:          7.45735 MiB (1:12.981 ratio)
+ ComparingUpdateTracker: 116.944 Mpixels in / 18.372 Mpixels out
+ ComparingUpdateTracker: (1:6.36533 ratio)
+X connection to :1.0 broken (explicit kill or server shutdown).
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Wed Apr 22 22:57:00 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x5e410f520080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5e410f520080 for event 3
+** Message: 22:57:01.360: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 22:57:01.360: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 22:57:01.361: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 22:57:01.361: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 22:57:01.976: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:1105): xfwm4-WARNING **: 22:57:02.078: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Wed Apr 22 22:57:02 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1586): xfce4-power-manager-WARNING **: 22:57:03.978: Display is not DPMS capable
+Added OpenSC smartcard framework (0.27) to /home/cakali/.mozilla/firefox/ekunfpk7.default-esr/pkcs11.txt
+Failure: Module initialization failed
+
+(polkit-mate-authentication-agent-1:1611): polkit-mate-1-WARNING **: 22:57:04.123: Unable to determine the session we are in: No session for pid 1611
+
+(xfce4-power-manager:1586): xfce4-power-manager-WARNING **: 22:57:04.213: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (xiccd:1623): CRITICAL **: 22:57:04.590: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+blueman-applet 22.57.05 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 22.57.05 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 22.57.05 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 22.57.05 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 22.57.05 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+
+Wed Apr 22 22:57:05 2026
+ Connections: Accepted: [::1]::46802
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+Wed Apr 22 22:57:06 2026
+ ComparingUpdateTracker: 2.304 Mpixels in / 2.304 Mpixels out
+ ComparingUpdateTracker: (1:1 ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Another notification daemon is running, exiting
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b89b3100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:371
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b89b3100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8947100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:371
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8947100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8945900 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:371
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8945900 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8945300 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:371
+[Child 43417, MediaDecoderStateMachine #1] WARNING: Decoder=7ed3b8945300 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+Process  59206  did not die with SIGHUP
+[GFX1-]: Detect DeviceReset DeviceResetReason::FORCED_RESET DeviceResetDetectPlace::WR_SIMULATE in Parent process
+[GFX1-]: Failed to connect WebRenderBridgeChild. isParent=false
+[GFX1-]: IPC Channel is already torn down unexpectedly
+
+The X session cleanly exited!
+Killing Xtigervnc process ID 1040...
+Thu Apr 23 00:44:37 2026
+ VNCSConnST:  Closing [::1]::46802: Server shutdown
+ EncodeManager: Framebuffer updates: 71977
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 116.499 krects, 338.606 Mpixels
+ EncodeManager:            1.77763 MiB (1:727.379 ratio)
+ EncodeManager:     Bitmap RLE: 48.358 krects, 21.0631 Mpixels
+ EncodeManager:                 1.39053 MiB (1:58.1815 ratio)
+ EncodeManager:     Indexed RLE: 814.04 krects, 436.589 Mpixels
+ EncodeManager:                  132.149 MiB (1:12.6734 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 387.174 krects, 1.5452 Gpixels
+ EncodeManager:                  915.069 MiB (1:6.44641 ratio)
+ EncodeManager:   Total: 1.36607 Mrects, 2.34146 Gpixels
+ EncodeManager:          1.02577 GiB (1:8.51839 ratio)
+ ComparingUpdateTracker: 20.2855 Gpixels in / 2.46459 Gpixels out
+ ComparingUpdateTracker: (1:8.2308 ratio)
+X connection to :1.0 broken (explicit kill or server shutdown).
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Thu Apr 23 10:02:40 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x59463d4cf080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x59463d4cf080 for event 3
+** Message: 10:02:41.221: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 10:02:41.221: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 10:02:41.221: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 10:02:41.221: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 10:02:41.983: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:474): xfwm4-WARNING **: 10:02:42.200: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Thu Apr 23 10:02:42 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1005): xfce4-power-manager-WARNING **: 10:02:44.556: Display is not DPMS capable
+Failure: Module initialization failed
+
+(polkit-mate-authentication-agent-1:1022): polkit-mate-1-WARNING **: 10:02:44.666: Unable to determine the session we are in: No session for pid 1022
+
+(xfce4-power-manager:1005): xfce4-power-manager-WARNING **: 10:02:44.861: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+Thu Apr 23 10:02:44 2026
+ Connections: Accepted: [::1]::44154
+ SConnection: Client needs protocol version 3.8
+
+Thu Apr 23 10:02:45 2026
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+
+** (xiccd:1030): CRITICAL **: 10:02:45.109: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 4.65832 Mpixels in / 21.719 kpixels out
+ ComparingUpdateTracker: (1:214.481 ratio)
+blueman-applet 10.02.46 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 10.02.46 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 10.02.46 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 10.02.46 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 10.02.46 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Xlib:  extension "DPMS" missing on display ":1".
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+[Child 3427, MediaDecoderStateMachine #1] WARNING: Decoder=77a5d277c100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 3427, MediaDecoderStateMachine #1] WARNING: Decoder=77a5d7618100 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 3427, MediaDecoderStateMachine #1] WARNING: Decoder=77a5d2f78800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+[Child 3427, MediaDecoderStateMachine #1] WARNING: Decoder=77a5d2f79700 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:371
+[Child 3427, MediaDecoderStateMachine #1] WARNING: Decoder=77a5d2f79700 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006): file dom/media/MediaDecoderStateMachineBase.cpp:168
+Another notification daemon is running, exiting
+The X session cleanly exited!
+Killing Xtigervnc process ID 409...X connection to :1.0 broken (explicit kill or server shutdown).
+
+Thu Apr 23 10:06:23 2026
+ VNCSConnST:  Closing [::1]::44154: Server shutdown
+ EncodeManager: Framebuffer updates: 9558
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 11.751 krects, 32.5521 Mpixels
+ EncodeManager:            183.609 KiB (1:693.288 ratio)
+ EncodeManager:     Bitmap RLE: 3.139 krects, 1.13542 Mpixels
+ EncodeManager:                 92.9121 KiB (1:48.1316 ratio)
+ EncodeManager:     Indexed RLE: 35.333 krects, 22.0375 Mpixels
+ EncodeManager:                  6.33638 MiB (1:13.3311 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 25.492 krects, 111.053 Mpixels
+ EncodeManager:                  71.1644 MiB (1:5.95696 ratio)
+ EncodeManager:   Total: 75.715 krects, 166.778 Mpixels
+ EncodeManager:          77.7709 MiB (1:8.19166 ratio)
+ ComparingUpdateTracker: 3.6618 Gpixels in / 173.03 Mpixels out
+ ComparingUpdateTracker: (1:21.1628 ratio)
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Tue May 26 18:45:41 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+[mi] mieq: warning: overriding existing handler (nil) with 0x5f9ad5c18080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5f9ad5c18080 for event 3
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+** Message: 18:45:42.172: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 18:45:42.173: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 18:45:42.173: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 18:45:42.173: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 18:45:42.967: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:472): xfwm4-WARNING **: 18:45:43.168: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Tue May 26 18:45:43 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Failure: Module initialization failed
+
+(polkit-mate-authentication-agent-1:1037): polkit-mate-1-WARNING **: 18:45:45.628: Unable to determine the session we are in: No session for pid 1037
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1017): xfce4-power-manager-WARNING **: 18:45:45.643: Display is not DPMS capable
+
+Tue May 26 18:45:45 2026
+ Connections: Accepted: [::1]::45870
+
+(xfce4-power-manager:1017): xfce4-power-manager-WARNING **: 18:45:45.900: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+
+** (xiccd:1044): CRITICAL **: 18:45:46.189: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+Tue May 26 18:45:46 2026
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 2.304 Mpixels in / 17.184 kpixels out
+ ComparingUpdateTracker: (1:134.078 ratio)
+blueman-applet 18.45.47 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 18.45.47 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 18.45.47 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 18.45.47 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 18.45.47 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Xlib:  extension "DPMS" missing on display ":1".
+Another notification daemon is running, exiting
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+[Child 2731, MediaDecoderStateMachine #1] WARNING: Decoder=7d8e4788c800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 2731, MediaDecoderStateMachine #1] WARNING: Decoder=7d8e4788b900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 2731, MediaDecoderStateMachine #1] WARNING: Decoder=7d8e4788c200 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[Child 2731, MediaDecoderStateMachine #1] WARNING: Decoder=7d8e50ea7900 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - Error no decoder found for audio/mp4a-latm: file dom/media/MediaDecoderStateMachineBase.cpp:168
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+libEGL warning: DRI3 error: Could not get DRI3 device
+libEGL warning: Ensure your X server supports DRI3 to get accelerated rendering
+
+Tue May 26 18:48:49 2026
+ Input:       Added keysym XK_dead_acute (0xfe51) to keycode 248
+The Wayland connection broke. Did the Wayland compositor die?
+The Wayland connection broke. Did the Wayland compositor die?
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+The X session cleanly exited!
+Killing Xtigervnc process ID 410...
+Tue May 26 20:35:38 2026
+ VNCSConnST:  Closing [::1]::45870: Server shutdown
+ EncodeManager: Framebuffer updates: 96522
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 98.695 krects, 235.17 Mpixels
+ EncodeManager:            1.50597 MiB (1:596.448 ratio)
+ EncodeManager:     Bitmap RLE: 80.358 krects, 15.631 Mpixels
+ EncodeManager:                 2.23363 MiB (1:27.107 ratio)
+ EncodeManager:     Indexed RLE: 1.64918 Mrects, 679.861 Mpixels
+ EncodeManager:                  263.256 MiB (1:9.92319 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 969.079 krects, 2.52585 Gpixels
+ EncodeManager:                  1.63637 GiB (1:5.75685 ratio)
+ EncodeManager:   Total: 2.79732 Mrects, 3.45651 Gpixels
+ EncodeManager:          1.89711 GiB (1:6.80391 ratio)
+ ComparingUpdateTracker: 28.978 Gpixels in / 3.3259 Gpixels out
+ ComparingUpdateTracker: (1:8.71283 ratio)
+X connection to :1.0 broken (explicit kill or server shutdown).
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Mon Jun  8 15:36:41 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x574448dd5080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x574448dd5080 for event 3
+** Message: 15:36:42.708: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 15:36:42.709: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 15:36:42.709: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 15:36:42.709: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 15:36:44.610: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:606): xfwm4-WARNING **: 15:36:45.627: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Mon Jun  8 15:36:46 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+
+Mon Jun  8 15:36:48 2026
+ Connections: Accepted: [::1]::36428
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+
+Mon Jun  8 15:36:49 2026
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 2.304 Mpixels in / 0 pixels out
+ ComparingUpdateTracker: (1:inf ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Failure: Module initialization failed
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1319): xfce4-power-manager-WARNING **: 15:36:51.030: Display is not DPMS capable
+
+(polkit-mate-authentication-agent-1:1332): polkit-mate-1-WARNING **: 15:36:51.094: Unable to determine the session we are in: No session for pid 1332
+
+(xfce4-power-manager:1319): xfce4-power-manager-WARNING **: 15:36:51.297: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+** (xiccd:1337): CRITICAL **: 15:36:51.543: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+blueman-applet 15.36.52 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 15.36.52 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 15.36.52 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 15.36.52 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 15.36.52 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Another notification daemon is running, exiting
+The Wayland connection broke. Did the Wayland compositor die?
+The Wayland connection broke. Did the Wayland compositor die?
+Error: Failed to open Wayland display, fallback to X11. WAYLAND_DISPLAY='wayland-0' DISPLAY=':1.0'
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+The X session cleanly exited!
+Killing Xtigervnc process ID 541...X connection to :1.0 broken (explicit kill or server shutdown).
+
+Mon Jun  8 20:01:57 2026
+ VNCSConnST:  Closing [::1]::36428: Server shutdown
+ EncodeManager: Framebuffer updates: 20467
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 3.24 krects, 20.9192 Mpixels
+ EncodeManager:            50.625 KiB (1:1614.89 ratio)
+ EncodeManager:     Bitmap RLE: 9.325 krects, 1.04611 Mpixels
+ EncodeManager:                 283.633 KiB (1:14.7926 ratio)
+ EncodeManager:     Indexed RLE: 35.419 krects, 22.436 Mpixels
+ EncodeManager:                  3.37359 MiB (1:25.4897 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 6.598 krects, 48.6845 Mpixels
+ EncodeManager:                  25.6762 MiB (1:7.23596 ratio)
+ EncodeManager:   Total: 54.582 krects, 93.0858 Mpixels
+ EncodeManager:          29.3762 MiB (1:12.1091 ratio)
+ ComparingUpdateTracker: 893.25 Mpixels in / 75.471 Mpixels out
+ ComparingUpdateTracker: (1:11.8357 ratio)
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Jun 28 16:52:17 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x5b8a8e668080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5b8a8e668080 for event 3
+** Message: 16:52:18.003: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 16:52:18.003: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 16:52:18.003: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 16:52:18.004: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 16:52:19.193: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:609): xfwm4-WARNING **: 16:52:19.480: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Sun Jun 28 16:52:19 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+
+Sun Jun 28 16:52:22 2026
+ Connections: Accepted: [::1]::35206
+
+Sun Jun 28 16:52:23 2026
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+Failure: Module initialization failed
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1263): xfce4-power-manager-WARNING **: 16:52:23.835: Display is not DPMS capable
+
+(polkit-mate-authentication-agent-1:1308): polkit-mate-1-WARNING **: 16:52:23.969: Unable to determine the session we are in: No session for pid 1308
+
+Sun Jun 28 16:52:24 2026
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+
+(xfce4-power-manager:1263): xfce4-power-manager-WARNING **: 16:52:24.570: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+ ComparingUpdateTracker: 2.304 Mpixels in / 1.232 kpixels out
+ ComparingUpdateTracker: (1:1870.13 ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+
+** (xiccd:1316): CRITICAL **: 16:52:25.642: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+blueman-applet 16.52.26 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 16.52.26 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 16.52.26 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 16.52.26 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 16.52.27 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Another notification daemon is running, exiting
+Process  1952  did not die with SIGHUP
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+The X session cleanly exited!
+Killing Xtigervnc process ID 542...
+Sun Jun 28 17:08:02 2026
+ VNCSConnST:  Closing [::1]::35206: Server shutdown
+ EncodeManager: Framebuffer updates: 5419
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 494 rects, 6.19649 Mpixels
+ EncodeManager:            7.71875 KiB (1:3136.63 ratio)
+ EncodeManager:     Bitmap RLE: 1.737 krects, 178.848 kpixels
+ EncodeManager:                 50.5859 KiB (1:14.2131 ratio)
+ EncodeManager:     Indexed RLE: 10.812 krects, 6.22952 Mpixels
+ EncodeManager:                  985.092 KiB (1:24.8309 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 1.616 krects, 12.4567 Mpixels
+ EncodeManager:                  6.65168 MiB (1:7.1466 ratio)
+ EncodeManager:   Total: 14.659 krects, 25.0615 Mpixels
+ EncodeManager:          7.67062 MiB (1:12.4853 ratio)
+ ComparingUpdateTracker: 148.196 Mpixels in / 18.4696 Mpixels out
+ ComparingUpdateTracker: (1:8.02377 ratio)
+X connection to :1.0 broken (explicit kill or server shutdown).
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Jun 28 17:08:25 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+[mi] mieq: warning: overriding existing handler (nil) with 0x5ffe7b81c080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5ffe7b81c080 for event 3
+/usr/bin/startxfce4: X server already running on display :1
+** Message: 17:08:25.905: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 17:08:25.906: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 17:08:25.906: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 17:08:25.906: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 17:08:26.427: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+(xfwm4:11727): xfwm4-WARNING **: 17:08:26.646: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+
+Sun Jun 28 17:08:26 2026
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:12225): xfce4-power-manager-WARNING **: 17:08:31.972: Display is not DPMS capable
+
+** (xiccd:12244): CRITICAL **: 17:08:32.204: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+
+(polkit-mate-authentication-agent-1:12241): polkit-mate-1-WARNING **: 17:08:32.219: Unable to determine the session we are in: No session for pid 12241
+
+(xfce4-power-manager:12225): xfce4-power-manager-WARNING **: 17:08:32.389: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+Failure: Module initialization failed
+blueman-applet 17.08.33 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 17.08.33 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.08.33 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 17.08.33 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 17.08.33 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+
+Sun Jun 28 17:08:34 2026
+ Connections: Accepted: [::1]::59486
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 50.625 kpixels in / 3.002 kpixels out
+ ComparingUpdateTracker: (1:16.8638 ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Another notification daemon is running, exiting
+
+Sun Jun 28 17:08:57 2026
+ VNCSConnST:  Closing [::1]::59486: Clean disconnection
+ EncodeManager: Framebuffer updates: 203
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 60 rects, 5.00437 Mpixels
+ EncodeManager:            960 B (1:20852.3 ratio)
+ EncodeManager:     Bitmap RLE: 27 rects, 2.712 kpixels
+ EncodeManager:                 761 B (1:14.6807 ratio)
+ EncodeManager:     Indexed RLE: 326 rects, 307.376 kpixels
+ EncodeManager:                  44.1572 KiB (1:27.2777 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 113 rects, 1.80106 Mpixels
+ EncodeManager:                  686.985 KiB (1:10.2429 ratio)
+ EncodeManager:   Total: 526 rects, 7.11552 Mpixels
+ EncodeManager:          732.823 KiB (1:37.9371 ratio)
+ Connections: Closed: [::1]::59486
+ ComparingUpdateTracker: 8.95659 Mpixels in / 2.96556 Mpixels out
+ ComparingUpdateTracker: (1:3.0202 ratio)
+
+Sun Jun 28 17:09:25 2026
+ Connections: Accepted: [::1]::59302
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+Error creating textual authentication agent: Error opening current controlling terminal for the process (`/dev/tty'): No such device or address
+The X session cleanly exited!
+Killing Xtigervnc process ID 11665...X connection to :1.0 broken (explicit kill or server shutdown).
+
+Sun Jun 28 17:09:47 2026
+ VNCSConnST:  Closing [::1]::59302: Server shutdown
+ EncodeManager: Framebuffer updates: 321
+ EncodeManager:   Tight:
+ EncodeManager:     Solid: 40 rects, 1.10364 Mpixels
+ EncodeManager:            640 B (1:6898.53 ratio)
+ EncodeManager:     Bitmap RLE: 16 rects, 2.876 kpixels
+ EncodeManager:                 539 B (1:21.6994 ratio)
+ EncodeManager:     Indexed RLE: 345 rects, 509.418 kpixels
+ EncodeManager:                  78.2637 KiB (1:25.4774 ratio)
+ EncodeManager:   Tight (JPEG):
+ EncodeManager:     Full Colour: 235 rects, 4.22483 Mpixels
+ EncodeManager:                  1.25222 MiB (1:12.8724 ratio)
+ EncodeManager:   Total: 636 rects, 5.84077 Mpixels
+ EncodeManager:          1.32978 MiB (1:16.7607 ratio)
+ ComparingUpdateTracker: 10.7646 Mpixels in / 3.25685 Mpixels out
+ ComparingUpdateTracker: (1:3.30522 ratio)
+ success!
+_XSERVTransmkdir: Mode of /tmp/.X11-unix should be set to 1777
+Could not find any render nodes
+Failed to initialize DRI3 extension
+
+Sun Jun 28 17:14:48 2026
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      Created VNC server for screen 0
+3NI3X0 New Xtigervnc server 'RTPC.localdomain:1 (cakali)' on port 5901 for display :1.
+3NI3X0 Use xtigervncviewer -SecurityTypes VeNCrypt,TLSVnc -passwd /home/cakali/.config/tigervnc/passwd RTPC.localdomain:1 to connect to the VNC server.
+/usr/bin/startxfce4: X server already running on display :1
+[mi] mieq: warning: overriding existing handler (nil) with 0x5cef31446080 for event 2
+[mi] mieq: warning: overriding existing handler (nil) with 0x5cef31446080 for event 3
+** Message: 17:14:52.899: Failed to fetch _NET_NUMBER_OF_DESKTOPS; assuming 1
+** Message: 17:14:52.899: Failed to get _NET_WORKAREA; using full screen dimensions
+** Message: 17:14:52.900: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+** Message: 17:14:52.900: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+_IceTransmkdir: Owner of /tmp/.ICE-unix should be set to root
+/usr/bin/iceauth:  creating new authority file /run/user/1000//ICEauthority
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+gpg-agent: a gpg-agent is already running - not starting a new one
+** Message: 17:14:55.145: Failed to fetch _NET_CURRENT_DESKTOP; assuming 0
+
+Sun Jun 28 17:14:55 2026
+ Connections: Accepted: [::1]::59364
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VeNCrypt(19)
+ SVeNCrypt:   Client requests security type TLSVnc (258)
+
+(xfwm4:623): xfwm4-WARNING **: 17:14:55.473: Unsupported GL renderer (llvmpipe (LLVM 21.1.8, 256 bits)).
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ ComparingUpdateTracker: 450 pixels in / 125 pixels out
+ ComparingUpdateTracker: (1:3.6 ratio)
+ ComparingUpdateTracker: 921.6 kpixels in / 921.6 kpixels out
+ ComparingUpdateTracker: (1:1 ratio)
+Xlib:  extension "DPMS" missing on display ":1".
+Failure: Module initialization failed
+Xlib:  extension "DPMS" missing on display ":1.0".
+
+(xfce4-power-manager:1279): xfce4-power-manager-WARNING **: 17:14:58.556: Display is not DPMS capable
+
+(xfce4-power-manager:1279): xfce4-power-manager-WARNING **: 17:14:58.670: Unable to inhibit systemd sleep: GDBus.Error:org.freedesktop.DBus.Error.AccessDenied: Permission denied
+
+(polkit-mate-authentication-agent-1:1295): polkit-mate-1-WARNING **: 17:14:58.683: Unable to determine the session we are in: No session for pid 1295
+
+** (xiccd:1299): CRITICAL **: 17:14:59.113: failed to create colord device: failed to obtain org.freedesktop.color-manager.create-device auth
+blueman-applet 17.15.00 ERROR    PluginManager:91 load_plugin: Unable to load plugin module KillSwitch
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/blueman/main/PluginManager.py", line 89, in load_plugin
+    importlib.import_module(self.module_path.__name__ + f".{plugin}")
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen importlib._bootstrap>", line 1387, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1023, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/usr/lib/python3/dist-packages/blueman/plugins/applet/KillSwitch.py", line 24, in <module>
+    raise ImportError('Hardware kill switch not found')
+ImportError: Hardware kill switch not found
+blueman-applet 17.15.00 WARNING  PluginManager:153 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+blueman-applet 17.15.00 WARNING  PluginManager:153 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 17.15.00 WARNING  DiscvManager:122 update_menuitems: warning: Adapter is None
+blueman-applet 17.15.00 ERROR    AgentManager:20 on_register_failed: /org/bluez/obex/agent/blueman org.freedesktop.DBus.Error.NoReply Message recipient disconnected from message bus without replying
+Another notification daemon is running, exiting
